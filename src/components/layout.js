@@ -50,11 +50,11 @@ class Layout extends React.Component {
         </Headroom>
 
         <main>{children}</main>
-        {/* <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
+        <footer>
+          © {new Date().getFullYear()}, Built with ❤ by <a href='https://wildcards.world'>Team Wildcards</a>
+          {` using `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer> */}
+        </footer>
       </div>
     )
   }

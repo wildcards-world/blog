@@ -62,7 +62,8 @@ class BlogPostTemplate extends React.Component {
           <RecentPosts />
           <br />
           <br />
-          <div
+          {/* To reintroduce when we start paying $9 per month for disqus  */}
+          {/* <div
             style={{
               display: "flex",
               width: "100%",
@@ -78,8 +79,8 @@ class BlogPostTemplate extends React.Component {
               }}
             >
               Responses
-            </p>
-            <div
+            </p> */}
+            {/* <div
               style={{
                 backgroundColor: "#ffffff",
                 padding: rhythm(1),
@@ -95,8 +96,8 @@ class BlogPostTemplate extends React.Component {
                   title: post.frontmatter.title,
                 }}
               />
-            </div>
-          </div>
+            </div> */}
+          {/* </div> */}
         </div>
       </Layout>
     )

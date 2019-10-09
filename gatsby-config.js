@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `Wildcards Blog`,
     author: `Team Wildcards`,
-    description: `A gatsby starter blog as close as possible to medium.`,
+    description: `Wildcards blog - Ethereum based conservation tokens.`,
     siteUrl: `https://blog.wildcards.world`,
     social: {
       twitter: `wildcards_world`,
       instagram: `wildcardsworld`,
     },
-    // disqusShortname: "saikrishna-me",
+    disqusShortname: "wildcardsworld",
   },
   plugins: [
     {
@@ -65,7 +65,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/favicon32x32.png`,
+        icon: `content/assets/favicon-32x32.png`,
       },
     },
     `gatsby-plugin-offline`,
