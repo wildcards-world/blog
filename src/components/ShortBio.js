@@ -86,7 +86,7 @@ ShortBio.defaultProps = {
 
 const shortBioQuery = graphql`
   query ShortBioQuery {
-    avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+    avatar: file(absolutePath: { regex: "/wildcards.jpg/" }) {
       childImageSharp {
         fixed(width: 50, height: 50) {
           ...GatsbyImageSharpFixed

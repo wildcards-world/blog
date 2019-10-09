@@ -40,7 +40,7 @@ function RecentPosts() {
 
 const recentPostsQuery = graphql`
   query RecentPostsQuery {
-    avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+    avatar: file(absolutePath: { regex: "/wildcards.jpg/" }) {
       childImageSharp {
         fixed(width: 50, height: 50) {
           ...GatsbyImageSharpFixed

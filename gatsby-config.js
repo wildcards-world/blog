@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Medium`,
-    author: `Sai Krishna`,
+    title: `Wildcards Blog`,
+    author: `Team Wildcards`,
     description: `A gatsby starter blog as close as possible to medium.`,
-    siteUrl: `https://dazzling-heyrovsky-62d4f9.netlify.com/`,
+    siteUrl: `https://blog.wildcards.world`,
     social: {
-      twitter: `_skris`,
-      instagram: `saikrishna.me`,
+      twitter: `wildcards_world`,
+      instagram: `wildcardsworld`,
     },
-    disqusShortname: "saikrishna-me",
+    // disqusShortname: "saikrishna-me",
   },
   plugins: [
     {
@@ -59,13 +59,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Wildcards Blog`,
+        short_name: `Wildcards`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/favicon32x32.png`,
       },
     },
     `gatsby-plugin-offline`,

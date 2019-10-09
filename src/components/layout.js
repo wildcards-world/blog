@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 import Headroom from "react-headroom"
 import { rhythm, scale } from "../utils/typography"
 
-import Menu from "./Menu"
+// import Menu from "./Menu"
 
 class Layout extends React.Component {
   render() {
@@ -34,7 +34,7 @@ class Layout extends React.Component {
             {title}
           </Link>
         </h1>
-        <Menu />
+        {/* <Menu /> */}
       </div>
     )
 
