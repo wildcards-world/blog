@@ -32,6 +32,7 @@ function Menu() {
             textTransform: "uppercase",
             letterSpacing: 1,
             color: "grey",
+            backgroundColor: 'white',
             ...scale(-1 / 5),
             margin: rhythm(1),
           }}
