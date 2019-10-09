@@ -41,20 +41,17 @@
     "prettier": "^1.17.0"
   },
   "keywords": [
-    "gatsby"
+    "gatsby, wildcards, conservation, crypto, ethereum"
   ],
   "license": "MIT",
   "main": "n/a",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
-  },
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
+    "deploy": "gatsby build && gh-pages -d public -b gh-pages",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   }
 }
