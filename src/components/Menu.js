@@ -25,7 +25,7 @@ function Menu() {
       {menuItems.map(m => (
         <Link
           style={{
-            boxShadow: `none`,
+            boxShadow: 'none',
             textDecoration: `none`,
             textTransform: "uppercase",
             letterSpacing: 1,

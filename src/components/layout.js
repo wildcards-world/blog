@@ -14,7 +14,7 @@ class Layout extends React.Component {
     header = (
       <div
         style={{
-          backgroundColor: "#ffffff",
+          backgroundColor: "#ffffff",          
         }}
       >
           <Link
