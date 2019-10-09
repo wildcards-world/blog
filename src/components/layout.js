@@ -29,8 +29,9 @@ class Layout extends React.Component {
               textDecoration: `none`,
               color: `inherit`,
             }}
-            to={`/`}
+            to={`https://wildcards.world`}
           >
+            {/* <img src='./content/assets/wild-cards.png'/> */}
             {title}
           </Link>
         </h1>
@@ -46,10 +47,13 @@ class Layout extends React.Component {
         }}
       >
         <Headroom>
-          <header>{header}</header>
+          <header>
+          {header}
+          </header>
         </Headroom>
 
         <main>{children}</main>
+
         <footer>
           © {new Date().getFullYear()}, Built with ❤ by <a href='https://wildcards.world'>Team Wildcards</a>
           {` using `}
