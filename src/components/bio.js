@@ -46,12 +46,11 @@ function Bio() {
                   ...scale(-1 / 5),
                 }}
               >
-                I enjoy the process of building a product from 0 to 1.
+                Lover of bamboo shoots, foraging and shaddy branches
                 <br />
                 You can connect with me via{" "}
-                <a href={`https://twitter.com/${twitter}`}>Twitter</a> or if you
-                like to look at good photos,{" "}
-                <a href={`https://instagram.com/${instagram}`}>Instagram</a>.
+                <a href={`https://twitter.com/${twitter}`}>Twitter</a> or {" "}
+                <a href={`https://facebook.com/wildcardscrypto`}>Facebook</a>.
               </p>
             </div>
           </div>
