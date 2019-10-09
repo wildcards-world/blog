@@ -42,6 +42,8 @@ This is what is actually super cool and unique about wildcards. We have leverage
 In a nutshell, whenever someone buys a wildcard, they are immediately required to set a selling price for that wildcard. Therefore, the wildcard can at anytime be bought for that selling price, and is ‘always for sale’. The interesting economic dynamic is that the owner of the wildcard pays a percentage based fee on the selling price they set (known as harberger tax).
 If you are lost… don’t worry — we made this cool little video which should hopefully explain it a bit better :)
 
+`youtube:https://www.youtube.com/embed/63qtVVmcpmU`
+
 ## Why are we in Paris?
 
 Our team was selected to be part of Ubisoft Entrepreneurs lab in Station F, Paris. See below…

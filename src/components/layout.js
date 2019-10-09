@@ -2,8 +2,9 @@ import React from "react"
 import { Link } from "gatsby"
 import Headroom from "react-headroom"
 import { rhythm, scale } from "../utils/typography"
+import WildCardsLogo from "../img/wild-cards-small.png"
 
-// import Menu from "./Menu"
+import Menu from "./Menu"
 
 class Layout extends React.Component {
   render() {
@@ -16,13 +17,6 @@ class Layout extends React.Component {
           backgroundColor: "#ffffff",
         }}
       >
-        <h1
-          style={{
-            ...scale(2 / 2.25),
-            fontWeight: "bold",
-            margin: rhythm(1 / 2),
-          }}
-        >
           <Link
             style={{
               boxShadow: `none`,
@@ -31,11 +25,9 @@ class Layout extends React.Component {
             }}
             to={`https://wildcards.world`}
           >
-            {/* <img src='./content/assets/wild-cards.png'/> */}
-            {title}
-          </Link>
-        </h1>
-        {/* <Menu /> */}
+            <img src={WildCardsLogo} style={{maxHeight: '50px', margin: rhythm(1 / 2),}}/>            
+          </Link>        
+        <Menu />
       </div>
     )
 
@@ -55,9 +47,9 @@ class Layout extends React.Component {
         <main>{children}</main>
 
         <footer>
-          © {new Date().getFullYear()}, Built with ❤ by <a href='https://wildcards.world'>Team Wildcards</a>
+          <small>© {new Date().getFullYear()}, Built with ❤ by <a href='https://wildcards.world'>Team Wildcards</a>
           {` using `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="https://www.gatsbyjs.org">Gatsby</a></small>
         </footer>
       </div>
     )

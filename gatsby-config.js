@@ -30,6 +30,14 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: "gatsby-remark-embed-youtube",
+            options: {
+              width: 1000,
+              height: 500,
+              margin: `auto`
+            }
+          },
+          {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 590,
@@ -52,7 +60,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-139348292-3`
       },
     },
     `gatsby-plugin-feed`,

@@ -6,16 +6,12 @@ import { scale, rhythm } from "../utils/typography"
 const menuItems = [
   {
     name: "Home",
+    path: 'https://wildcards.world'
+  },
+  {
+    name: "Blog",
     path: "/",
-  },
-  {
-    name: "About",
-    path: "/about",
-  },
-  {
-    name: "Contact",
-    path: "/contact",
-  },
+  }
 ]
 
 function Menu() {
