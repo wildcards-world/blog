@@ -1,12 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
-  "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "name": "wildcards-blog",
+  "description": "A blog for Wildcards",
+  "version": "0.0.1",
+  "author": "Denham Preen <denham@wildcards.world>",
+  "homepage": "https://blog.wildcards.world",
   "dependencies": {
     "disqus-react": "^1.0.5",
     "gatsby": "^2.4.3",
@@ -40,9 +37,9 @@
     "typography-theme-wordpress-2016": "^0.16.19"
   },
   "devDependencies": {
+    "gh-pages": "^2.1.1",
     "prettier": "^1.17.0"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
     "gatsby"
   ],
