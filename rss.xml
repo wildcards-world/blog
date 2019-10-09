@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wildcards Blog]]></title><description><![CDATA[Wildcards blog - Ethereum based conservation tokens.]]></description><link>https://blog.wildcards.world</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 09 Oct 2019 15:00:02 GMT</lastBuildDate><item><title><![CDATA[Welcome to wildcards]]></title><description><![CDATA[Welcome to the world of wildcards! What on earth is wildcards?! It’s a project started by friends to help generate sustainable and…]]></description><link>https://blog.wildcards.world/welcome-to-wildcards/</link><guid isPermaLink="false">https://blog.wildcards.world/welcome-to-wildcards/</guid><pubDate>Fri, 09 Aug 2019 16:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the world of wildcards! What on earth is wildcards?!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wildcards Blog]]></title><description><![CDATA[Wildcards blog - Ethereum based conservation tokens.]]></description><link>https://blog.wildcards.world</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 09 Oct 2019 16:01:14 GMT</lastBuildDate><item><title><![CDATA[Welcome to wildcards]]></title><description><![CDATA[Welcome to the world of wildcards! What on earth is wildcards?! It’s a project started by friends to help generate sustainable and…]]></description><link>https://blog.wildcards.world/welcome-to-wildcards/</link><guid isPermaLink="false">https://blog.wildcards.world/welcome-to-wildcards/</guid><pubDate>Fri, 09 Aug 2019 16:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the world of wildcards! What on earth is wildcards?!&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;It’s a project started by friends to help generate sustainable and meaningful contributions toward endangered animal conservation.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -121,6 +121,20 @@
 &lt;p&gt;This is what is actually super cool and unique about wildcards. We have leveraged an idea from a book called ‘radical markets’, that proposes a fascinating ‘always for sale mechanism’.&lt;/p&gt;
 &lt;p&gt;In a nutshell, whenever someone buys a wildcard, they are immediately required to set a selling price for that wildcard. Therefore, the wildcard can at anytime be bought for that selling price, and is ‘always for sale’. The interesting economic dynamic is that the owner of the wildcard pays a percentage based fee on the selling price they set (known as harberger tax).
 If you are lost… don’t worry — we made this cool little video which should hopefully explain it a bit better :)&lt;/p&gt;
+&lt;p&gt;
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
+          &gt;
+            &lt;div&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/63qtVVmcpmU&quot; style=&quot;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;/p&gt;
 &lt;h2&gt;Why are we in Paris?&lt;/h2&gt;
 &lt;p&gt;Our team was selected to be part of Ubisoft Entrepreneurs lab in Station F, Paris. See below…&lt;/p&gt;
 &lt;blockquote&gt;
