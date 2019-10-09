@@ -1,4 +1,4 @@
-import React from "react"
+import React, {Fragment} from "react"
 import { Link } from "gatsby"
 import Headroom from "react-headroom"
 import { rhythm, scale } from "../utils/typography"
@@ -12,23 +12,27 @@ class Layout extends React.Component {
     let header
 
     header = (
+      <Fragment>
       <div
         style={{
           backgroundColor: "#ffffff",          
+          display: 'flex',
+          justifyContent: 'center'
         }}
       >
-          <Link
+          <a
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
               color: `inherit`,
             }}
-            to={`https://wildcards.world`}
+            href={`https://wildcards.world`}
           >
-            <img src={WildCardsLogo} style={{maxHeight: '50px', margin: rhythm(1 / 2),}}/>            
-          </Link>        
-        <Menu />
+            <img src={WildCardsLogo} style={{maxHeight: '50px', marginTop: rhythm(1 / 2),}}/>            
+          </a> 
       </div>
+        <Menu />
+        </Fragment>
     )
 
     return (
@@ -46,7 +50,7 @@ class Layout extends React.Component {
 
         <main>{children}</main>
 
-        <footer>
+        <footer style={{textAlign:'center'}}>
           <small>© {new Date().getFullYear()}, Built with ❤ by <a href='https://wildcards.world'>Team Wildcards</a>
           {` using `}
           <a href="https://www.gatsbyjs.org">Gatsby</a></small>

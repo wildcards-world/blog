@@ -3,17 +3,6 @@ import { Link } from "gatsby"
 
 import { scale, rhythm } from "../utils/typography"
 
-const menuItems = [
-  {
-    name: "Home",
-    path: 'https://wildcards.world'
-  },
-  {
-    name: "Blog",
-    path: "/",
-  }
-]
-
 function Menu() {
   return (
     <div
@@ -21,8 +10,21 @@ function Menu() {
         display: "flex",
         justifyContent: "center",
       }}
-    >
-      {menuItems.map(m => (
+    >      
+            <a
+              style={{
+                boxShadow: 'none',
+                textDecoration: `none`,
+                textTransform: "uppercase",
+                letterSpacing: 1,
+                color: "grey",
+                ...scale(-1 / 5),
+                margin: rhythm(1),
+              }}
+              href="https://wildcards.world"
+            >
+              <p>Home</p>
+            </a>      
         <Link
           style={{
             boxShadow: 'none',
@@ -31,13 +33,12 @@ function Menu() {
             letterSpacing: 1,
             color: "grey",
             ...scale(-1 / 5),
-            marginRight: rhythm(1),
+            margin: rhythm(1),
           }}
-          to={m.path}
+          to={'/'}
         >
-          <p>{m.name}</p>
+          <p>Blog</p>
         </Link>
-      ))}
     </div>
   )
 }
