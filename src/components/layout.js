@@ -18,13 +18,14 @@ class Layout extends React.Component {
           backgroundColor: "#ffffff",          
           display: 'flex',
           justifyContent: 'center'
+       
         }}
       >
           <a
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `inherit`,
+              color: `inherit`,              
             }}
             href={`https://wildcards.world`}
           >

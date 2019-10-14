@@ -10,6 +10,8 @@ function Menu() {
         display: "flex",
         justifyContent: "center",
         backgroundColor: 'white',
+        height: '70px',
+        borderBottom: '1px solid #333'
       }}
     >      
             <a
