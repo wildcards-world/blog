@@ -3,6 +3,7 @@ import { Link } from "gatsby"
 import Headroom from "react-headroom"
 import { rhythm, scale } from "../utils/typography"
 import WildCardsLogo from "../img/wild-cards-small.png"
+import WildCardsBanner from "../img/simon.png"
 
 import Menu from "./Menu"
 
@@ -49,7 +50,10 @@ class Layout extends React.Component {
           </header>
         </Headroom>
 
-        <main>{children}</main>
+        <main>
+          <img src={WildCardsBanner} style={{width: '70%', margin: 'auto', display: 'block'}}/>  
+        {children}
+        </main>
 
         <footer style={{textAlign:'center'}}>
           <small>© {new Date().getFullYear()}, Built with ❤ by <a href='https://wildcards.world'>Team Wildcards</a>
