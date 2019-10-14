@@ -1,6 +1,6 @@
 {
   "name": "wildcards-blog",
-  "description": "A blog for Wildcards",
+  "description": "Wildcards lets you support conservation, become a patron of endangered animals and even earn a profit since wildcards are always for sale.",
   "version": "0.0.1",
   "author": "Denham Preen <denham@wildcards.world>",
   "homepage": "https://blog.wildcards.world",
@@ -42,7 +42,7 @@
     "prettier": "^1.17.0"
   },
   "keywords": [
-    "gatsby, wildcards, conservation, crypto, ethereum"
+    "Wildcards, Blockchain, digital assets, Non Fungible Tokens, Ethereum, Crypto Collectables, Conservation, Gorilla, Black Rhino, Endangered Animals, Harberger Tax, NFT, Always For Sale"
   ],
   "license": "MIT",
   "main": "n/a",

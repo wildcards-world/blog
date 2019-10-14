@@ -52,6 +52,10 @@ function SEO({ description, lang, meta, keywords, title }) {
           content: `website`,
         },
         {
+          property: `og:image`,
+          content: `https://wildcards.world/assets/img/logos/wildcards.png`,
+        },
+        {
           name: `twitter:card`,
           content: `summary`,
         },
