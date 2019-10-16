@@ -1,4 +1,120 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wildcards Blog]]></title><description><![CDATA[Wildcards blog - Ethereum based conservation tokens.]]></description><link>https://blog.wildcards.world</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Oct 2019 13:51:27 GMT</lastBuildDate><item><title><![CDATA[EthCapeTown (Wildcards is born) - The hackathon to start up experience]]></title><description><![CDATA[What it’s like to attend a hackathon like EthCapeTown Armed to the teeth with brains and Jon Jon, the wildcards team attended EthCapeTown…]]></description><link>https://blog.wildcards.world/ethcapetown/</link><guid isPermaLink="false">https://blog.wildcards.world/ethcapetown/</guid><pubDate>Mon, 14 Oct 2019 10:12:03 GMT</pubDate><content:encoded>&lt;h1&gt;What it’s like to attend a hackathon like EthCapeTown&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wildcards Blog]]></title><description><![CDATA[Wildcards blog - Ethereum based conservation tokens.]]></description><link>https://blog.wildcards.world</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 16 Oct 2019 13:04:01 GMT</lastBuildDate><item><title><![CDATA[Why our first gorillas are called Simon, Vitalik and Andy?]]></title><description><![CDATA[Coming up with gorilla names is hard. You have so many cool names like Max, Cass, Chewbacca, Sassy, Harambe, Darth Vader, and it very…]]></description><link>https://blog.wildcards.world/what-we-called-our-gorillas/</link><guid isPermaLink="false">https://blog.wildcards.world/what-we-called-our-gorillas/</guid><pubDate>Wed, 16 Oct 2019 14:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Coming up with gorilla names is hard. You have so many cool names like Max, Cass, Chewbacca, Sassy, Harambe, Darth Vader, and it very quickly becomes difficult to choose! Therefore, we decided to name the first few after some legends who personally inspired the wildcards journey. In fact, Simon, Vitalik and Andy were 3 of the judges at the ETHCapeTown hackathon we ended up winning.&lt;/p&gt;
+&lt;h2&gt;Simon&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c7505406e3735b30d0ec304fb283a393/8ff1e/simon.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 64.875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAADiUlEQVQ4y33RbUwTdxwH8NYs842JEqD24a53bU/aYm21PYptKVikRelVpJraMoQKWqmlUA56ggriA2J02cjMlmVRw6ZAfCBGzURdTIx0cw+6MJIl+mZZ9mbBvZjLwovC3f32L2HMvfGSb+4h9//c935/SVemSSp5y0FqsWKCVPWiDKKEUFbmnqsxhdT3Za+kpD2w+J6tzf/fIjbTZGSnmhLoXMZmou7Ox439fS9aw0aaaicIVVarU0MuGi0OCJxB0b35UYS9s4wihEb5u+/nVkh/2wxdmSgcf3kIDt4Mga4IIRoctJR6HmHzpAbL6ig1EBrs+huYE0W/dC3NgX0nf2nLQS9Ryz+6v45Cz4/7/6yKO0VFgUxQ4jKhUJYHckW+qCaUPEEqgSRVP7wHt1fYEjUGhCRRGhexpd+VobgRtg2hr7nvW6B35kCMMhJ30fwguKuWZ9mUeLgnLQ4M9AvF64sAJxS/W/aUO+jUjpAt4Q8hzIci/9/wO580XTrx4hA0PKx/KrlZEybXyj8jdRgMDZ1ZmJ2dhWw2C9PT0+Im6wYRw+VgYjYP2tN19ahlL8L2omCLUGx094qlpt8dmz4A3uFqVtpgHqG0+Exu4cZNJmFq6gnMzc3ByMhlUa4s4HNzNLhNJ1ynI/tt8e0pOsmUIXDlcrueix68/XG0xdtd+StZRP6mIVRoRzGg1hHCmrxVqOUgPHv2HCbvT4oURQhotqDC8Ud6xnnWztXtohP+fQjV/+tJu8eCsZ1c1SN72JG1+GkgCKXgYCjB4tRCfn6emE6zMPvqFYyNjomEXi1WtTpEhqsAd73tL8Kga7P3he3WWDW5qJmag40Nn3g/iH3qXgj1V0Jtd4VQtnu9uCNpAGu5RsRxlYip5VDDbAOPxwUbLZjY/HkQ4l81COEhL+zscMHeYSaSsypSnnclXQ90Bwee64G7VzK/76PAQuxCFR+IF/NbW4y8sVTL4wo5T6qVfN7qNbzVLOPjST1vZcy8LVbCR89tzR6ZqIPEBd/T5fkd+abQzU2ah9mrfoG9UgeR89VQy9nAwznAEHGC3mkCg8sExjIz2ggzrE46oHA7ug/RkLoThJaP/VDBblkobnRNaEKOPcswN1Fp6Xnf9WF5l/+Gk2NGS1Oea4Zo5TV7Z+043REYp1OB8dJkYBQ75rulPO57sKHD/0X0IpMJnvI+LKixj1MR508oR/8BcRh/YfQb9L4AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;simon&quot;
+        title=&quot;Simon Wildcard&quot;
+        src=&quot;/static/c7505406e3735b30d0ec304fb283a393/b9e4f/simon.png&quot;
+        srcset=&quot;/static/c7505406e3735b30d0ec304fb283a393/cf440/simon.png 148w,
+/static/c7505406e3735b30d0ec304fb283a393/d2d38/simon.png 295w,
+/static/c7505406e3735b30d0ec304fb283a393/b9e4f/simon.png 590w,
+/static/c7505406e3735b30d0ec304fb283a393/8ff1e/simon.png 800w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Let’s start with Simon. We forked some pretty awesome code from Simon. Seriously, he was a wizard who put us on the right track. He has helped inform some of our design decisions regarding our subsequent smart contracts, and always been willing to lend some great advice or checkout a GitHub issue for us.&lt;/p&gt;
+&lt;h2&gt;Vitalik&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0f89d11380e261dddf8ee61ceb565054/8ff1e/vitalik2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 76.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAADtUlEQVQ4y62SS0wbRxiAFxWR0CZqgALGu+tdP2NTgyF+rQ2OgykY2F0vL1MRnsmmuAbsmqg4xXHIQ0KorUiiVDmkeUDaEKW99NJLozaoUi+tVKmluUXq+9JD2xRUEZX1/J01TpTeO9Kn/9fMzrf/zD+Ec5on1IFjKYZVc+/JfqK2y1Os5gxLVmE+YvUUGEw6wPmPmGcLa0V4Xo3Ek/GUsAQzhGl3TnaZ1Dm9lX0ef7xuMOoAb1QwW3oDrUqz6jqpp54BgihSCi5UEBUVYjnmLCbrGGmpaHpr1I4FMwXZIwzC5NRKsXCD0VMG4qmBHieuhPC4QhumDRNwTvHn/AtDRkanvaIKdYx2G6MK1fyf/E9Y8h1134M9JZaf95bsVvM/dxf/R+jDHMZk8FzQlRQmDLWGX7AULFZjzmRmEa2rQWaLPodlQBuoX0crKyh85PuYB5j8vRL1MaFQKd+SF07xGfdM5KJd8k3jo/2NgaWlt9Ha2j109+4naGXlBrJaTUDjSvdOuGKnO9nPvyL3LAFB5ZtIBGZ3hJ4kT2KpHzdkyJPuie1vsp/SG2m1szmjiUGvpRKwevsW8nJOpDaGZcjfitOcQFxp+4y43B/1TEXaChXuNMU+wdfhCk8ciHfGuWx01uyzn9dRWmAYMqepeQFduLCE1te/BambR1WacjDhRj0Xd35fvtD604FEe9Y9LUTqk3z+Lokvfu/elVgRz/iP83MH08K8fbg1bvNa3tvvMIC5ls1ptVXozge30ebmJrSHQ0hDVgJdTm6XDXs2KhY7vzQnw5cbE7zoTQilajPIxik+lFgWlwfPi9+I5/j7gSP+nLzaD6lPR9D4jW6gGA20tgZBPjaOKJICmiJRyzAF9YMWsKZCfzkWwveCk8KLO+8m2FHadVa4Nr0srsaviQ9j74rfRbMtW9LcIRAvdiBTowEZzTqkpSpR2b59iJMoNHGTRvNfU+jlU0YUTR7cSiwLD1+9LmWePMoTdyKxmffFP7D00eTNno2+2eathlBdju1tUKqpaoXRVCssXaPQ1VplcEGjTN7SKMFRSpFSzUr6Q2k7fpWHgTfb18YudZYRuj7OZhtp+sGdDAGXOATjl3h4aV6ChrEwWI4GwRb1Q53IgT3ig7oIB47eneiVvRDO8nD64yh0L3aAaSQA9iPNHGE+7Cf1Az6Z6uXSbI97rPf1wCuuVOSo97gkN2Qk2Zntk3HXZS9Gje43orInMyAHzkRkV4ofT65Ic/2LbVmqhzvpONa8i/i/x79m6G/+7O7OTAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Vitalik&quot;
+        title=&quot;Vitalik Wildcard&quot;
+        src=&quot;/static/0f89d11380e261dddf8ee61ceb565054/b9e4f/vitalik2.png&quot;
+        srcset=&quot;/static/0f89d11380e261dddf8ee61ceb565054/cf440/vitalik2.png 148w,
+/static/0f89d11380e261dddf8ee61ceb565054/d2d38/vitalik2.png 295w,
+/static/0f89d11380e261dddf8ee61ceb565054/b9e4f/vitalik2.png 590w,
+/static/0f89d11380e261dddf8ee61ceb565054/8ff1e/vitalik2.png 800w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Next, Vitalik Buterin. Believe it or not, Vitalik managed to crack a rare smile during our hackathon presentation, and that was good enough for us. Rumour has it he is stashing his eth away in anticipation to buy the newly released wildcards and save endangered animals.&lt;/p&gt;
+&lt;h2&gt;Andy&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f1a61867cafbbf02d5304e05c7017bb8/8ff1e/andy.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 71.375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAADoElEQVQ4y52SbUxbVRjHK3xwQZPFzBTK7fvti6xMWDsGre2a0aa95ZbSFugGg0LlxXYDB+0QZrupsEiibmxmxqhRG4QthJAF3GIWbTe2rrrJJCZDBWdiHNNPgPuwaNLb83huC41+9Ul+ee45J/nlf55zORxcwUTbE5udwHwVvNmmY9clGjKPs1kiMbETU4uxYuTsHgBsHXM0PXT2Awu2eh5m+FjSB6FE+4dHY60qdl+qEDyJBZ+KJURaLOEDC14j3E+z52q/bfvuTkteTvqvdFzM25j7OGESMzK40EELCN40KRexIlbCSpFEKgAWmVrZWxlurMFCAevY02v/j5DEvIHTJfrnvfdP/OR/3dCsuSoo5oGUFDJsKoGQh/iCIiQQ8VJiEQEyjfKXilBdUB2wlWSF2YR5m8LqYKL9XSz7aPBu58etHzjex5LHpFwIPOLZzHVVpUrEslOlSBMEF0RS/rImUOPZ87LdovZTT2Vnl/RlE95oozATfde9X77ybccdRan4ZvGOIthe8DTT2nQIFhe/Q0tL9+DRoz/Rys8r6NSpYSjmc//SdFj9e0NO3a4GfX5GGJj2ZBJGlrqKBpJt51/9vvMsfpCE86QJzF269L7DanhrfAStr6/DysoysIXFaGZmGgh+YaqswRDSRjyq3AzZCs845HSEkndf8d5uPOe46x42/94f88LA1z4UXuxGL15yIm9XEzxcfQgbG+swO3uJnSf7UKnnXbpI1aDLuquluiD3DwUn7Ed879V+QkVqblV69SApEQIVMaLAF81Q6ipDUiUfdPq98ODBb7C2tgZTUxdRYdEO9rH+lrgN7pI+d4XusPWZjEzdQ/c2vOk60RN1zXsi+zfco2bQju1L1yXqQX/GhLjUc6hUUwh19TSsrq7C7TvfwNzcHCrXKtP2QCX0v2P9/MYklZEdCJvzOS1n3PLeyerlobjij8B4BTij9hS14GbMSSejv1zDaIbUjKVVzkhJPtPZ4WNC/X2M0ahlGkJVKX/UkT47aX5876q5OXfdkVn3tqG49Er4Whkcu0BB42cusCzUA7XkAXPUAtbXNGBsLwNZuQJ4imLgkoUgVEmge8wG7VMOkJy3gG5o/y1Zo/Y4eUgnzImPTFhcwTFjwjZgi70QrYubrrvmtYO2WPVp07z+uDW++yU6VnnUEa/ClPvpWO1JOt4yTv9aEDZcEx7Q/ig7qP2BbNLVcnyjfZz/W75z9Da2G0ZN+Vt7/wAiQaFt0XLQjQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Andy&quot;
+        title=&quot;Andy Wildcard&quot;
+        src=&quot;/static/f1a61867cafbbf02d5304e05c7017bb8/b9e4f/andy.png&quot;
+        srcset=&quot;/static/f1a61867cafbbf02d5304e05c7017bb8/cf440/andy.png 148w,
+/static/f1a61867cafbbf02d5304e05c7017bb8/d2d38/andy.png 295w,
+/static/f1a61867cafbbf02d5304e05c7017bb8/b9e4f/andy.png 590w,
+/static/f1a61867cafbbf02d5304e05c7017bb8/8ff1e/andy.png 800w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;It was 4 am on Sunday, and before we collapsed on mattresses at the hackathon hall, we found Andy “CryptoWanderer” Tudhope reading some profound book. Andy encouraged us to attend ETHIndia (which turned out to be an amazing experience).&lt;/p&gt;
+&lt;p&gt;Visit our website &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt; where you can go ahead, and buy a Simon, Vitalik and Andy, and start contributing toward endangered animal conservation today!&lt;/p&gt;
+&lt;p&gt;Follow our socials to learn more about our project and the conservation causes we are working towards.&lt;/p&gt;
+&lt;p&gt;Follow us on twitter: &lt;a href=&quot;https://twitter.com/wildcards_world&quot;&gt;@wildcards_world&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow us on Facebook: &lt;a href=&quot;https://www.facebook.com/wildcardscrypto&quot;&gt;@wildcardscrypto&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow us on Telegram: &lt;a href=&quot;https://t.me/wildcardsworld&quot;&gt;Telegram&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/55b1e489873ad2174c5459e1b6f1e3dc/thuggorilla.gif&quot; alt=&quot;thuglife&quot; title=&quot;Thuglife harberger tax&quot;&gt;&lt;/p&gt;
+&lt;p&gt;As always, stay cool, stay safe and stay tuned&lt;/p&gt;
+&lt;p&gt;Team Wildcards&lt;/p&gt;</content:encoded></item><item><title><![CDATA[EthCapeTown (Wildcards is born) - The hackathon to start up experience]]></title><description><![CDATA[What it’s like to attend a hackathon like EthCapeTown Armed to the teeth with brains and Jon Jon, the wildcards team attended EthCapeTown…]]></description><link>https://blog.wildcards.world/ethcapetown/</link><guid isPermaLink="false">https://blog.wildcards.world/ethcapetown/</guid><pubDate>Mon, 14 Oct 2019 10:12:03 GMT</pubDate><content:encoded>&lt;h1&gt;What it’s like to attend a hackathon like EthCapeTown&lt;/h1&gt;
 &lt;p&gt;Armed to the teeth with brains and Jon Jon, the wildcards team attended &lt;a href=&quot;https://ethcapetown.com&quot;&gt;EthCapeTown&lt;/a&gt;. Of course, at this point, we were merely good friends from University. Unknowingly about to fall upon a revolutionary conservation funding model. A self-regulated open market place leveraging Harberger Tax and incentives to create a new conservation patronage asset class. &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt;. &lt;/p&gt;
 &lt;p&gt;The team, 4 developers strong, passionate about our planet, embarked on 48 hours of non-stop hacking. 9 hours in, at 3 am on Saturday morning, we weren’t a line of code in. Still in debate on what we were buidling. On the fence between a crowdfunding student education app and a gambling app with a simple but difficult to implement mechanic. The team retreated to our closest home and had a deep sleep on slightly too short couches. &lt;/p&gt;
 &lt;p&gt;
