@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wildcards Blog]]></title><description><![CDATA[Wildcards blog - Ethereum based conservation tokens.]]></description><link>https://blog.wildcards.world</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 16 Oct 2019 13:15:41 GMT</lastBuildDate><item><title><![CDATA[Why our first gorillas are called Simon, Vitalik and Andy?]]></title><description><![CDATA[Coming up with gorilla names is hard. You have so many cool names like Max, Cass, Chewbacca, Sassy, Harambe, Darth Vader, and it very…]]></description><link>https://blog.wildcards.world/what-we-called-our-gorillas/</link><guid isPermaLink="false">https://blog.wildcards.world/what-we-called-our-gorillas/</guid><pubDate>Wed, 16 Oct 2019 14:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Coming up with gorilla names is hard. You have so many cool names like Max, Cass, Chewbacca, Sassy, Harambe, Darth Vader, and it very quickly becomes difficult to choose! Therefore, we decided to name the first few after some legends who personally inspired the wildcards journey. In fact, Simon, Vitalik and Andy were 3 of the judges at the ETHCapeTown hackathon we ended up winning.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wildcards Blog]]></title><description><![CDATA[Wildcards blog - Ethereum based conservation tokens.]]></description><link>https://blog.wildcards.world</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 16 Oct 2019 15:20:56 GMT</lastBuildDate><item><title><![CDATA[How to buy a wildcard?]]></title><description><![CDATA[Why are there so many options to buy a wildcard? Smart contracts Wildcards uses something called ‘smart-contracts’ which are essentially…]]></description><link>https://blog.wildcards.world/buying-wildcards/</link><guid isPermaLink="false">https://blog.wildcards.world/buying-wildcards/</guid><pubDate>Wed, 16 Oct 2019 16:12:03 GMT</pubDate><content:encoded>&lt;h3&gt;Why are there so many options to buy a wildcard?&lt;/h3&gt;
+&lt;h2&gt;Smart contracts&lt;/h2&gt;
+&lt;p&gt;Wildcards uses something called ‘smart-contracts’ which are essentially decentralised pieces of code we deploy to ensure our application is transparent and acts automatically how we intended (i.e. funds will transparently flow to the conservation organisations etc…).&lt;/p&gt;
+&lt;h2&gt;Ethereum&lt;/h2&gt;
+&lt;p&gt;We use a network called ethereum (a type of blockchain), to facilitate this entire process.&lt;/p&gt;
+&lt;p&gt;Therefore, in order to buy a wildcard, you will need eth, the currency of ethereum, and this will allow you to interact with our smart contracts and buy a wildcard.&lt;/p&gt;
+&lt;p&gt;Wait… one more thing. How do you get hold of eth?&lt;/p&gt;
+&lt;p&gt;Well… you buy it. Next question, how do I buy it and how do I use it?&lt;/p&gt;
+&lt;h2&gt;Web3 provider&lt;/h2&gt;
+&lt;p&gt;Here you will use something called a ‘web3 provider’. This is a 3rd party application that will allow you to hold eth and interact with an ‘decentralised application (app)’ like wildcards running on ethereum.&lt;/p&gt;
+&lt;p&gt;We have given you 6 different web3 provider options to use and facilitate this process. Each has a slightly different way of working that may suit you best. E.g.
+Torus (with google), lets you create an account with google then fund your account using a credit card. See a summary at the end of the web3 providers.&lt;/p&gt;
+&lt;h2&gt;I need help&lt;/h2&gt;
+&lt;p&gt;We are on crisp (chat tool bottom right of wildcards website) to help walk you through the entire process if you are lost :)&lt;/p&gt;
+&lt;h2&gt;Why is this so hard?&lt;/h2&gt;
+&lt;p&gt;Blockchain is the bleeding edge of technology and still has a long way to go. Don’t worry, as soon as things become easier, we will update our website accordingly.&lt;/p&gt;
+&lt;h2&gt;So what are my options?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Metamask Overview:&lt;/strong&gt; 
+The undisputed, de facto way to interact with a majority of existing dApps today.
+&lt;a href=&quot;https://media.consensys.net/how-to-use-metamask-like-a-wizard-850a96fdd95c&quot;&gt;https://media.consensys.net/how-to-use-metamask-like-a-wizard-850a96fdd95c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WalletConnect Overview:&lt;/strong&gt;
+WalletConnect is an open protocol for connecting desktop Dapps to mobile Wallets using end-to-end encryption by scanning a QR code&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tor.us overview:&lt;/strong&gt;
+A simple and secure gateway to the decentralized ecosystem via Google or Facebook OAuth logins.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Portis Overview:&lt;/strong&gt; 
+In-dApp pop up wallet. Simple email signup flow.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fortmatic Overview:&lt;/strong&gt;
+In-dApp pop up wallet. Requires phone number and pin verification.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Squarelink overview:&lt;/strong&gt;
+Squarelink allows you to import all of your blockchain accounts and manage them all through one platform.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Visit our website &lt;a href=&quot;https://wildcards.world&quot;&gt;Wildcards&lt;/a&gt; where you can buy some wildcards and start contributing toward endangered animal conservation today! Follow our socials to learn more about our project and the conservation causes we are working towards.&lt;/p&gt;
+&lt;p&gt;Follow us on twitter: &lt;a href=&quot;https://twitter.com/wildcards_world&quot;&gt;@wildcards_world&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow us on Facebook: &lt;a href=&quot;https://www.facebook.com/wildcardscrypto&quot;&gt;@wildcardscrypto&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow us on Telegram: &lt;a href=&quot;https://t.me/wildcardsworld&quot;&gt;Telegram&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/55b1e489873ad2174c5459e1b6f1e3dc/thuggorilla.gif&quot; alt=&quot;thuglife&quot; title=&quot;Thuglife harberger tax&quot;&gt;&lt;/p&gt;
+&lt;p&gt;As always, stay cool, stay safe and stay tuned&lt;/p&gt;
+&lt;p&gt;Team Wildcards&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why our first gorillas are called Simon, Vitalik and Andy?]]></title><description><![CDATA[Coming up with gorilla names is hard. You have so many cool names like Max, Cass, Chewbacca, Sassy, Harambe, Darth Vader, and it very…]]></description><link>https://blog.wildcards.world/what-we-called-our-gorillas/</link><guid isPermaLink="false">https://blog.wildcards.world/what-we-called-our-gorillas/</guid><pubDate>Wed, 16 Oct 2019 14:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Coming up with gorilla names is hard. You have so many cool names like Max, Cass, Chewbacca, Sassy, Harambe, Darth Vader, and it very quickly becomes difficult to choose! Therefore, we decided to name the first few after some legends who personally inspired the wildcards journey. In fact, Simon, Vitalik and Andy were 3 of the judges at the ETHCapeTown hackathon we ended up winning.&lt;/p&gt;
 &lt;h2&gt;Simon&lt;/h2&gt;
 &lt;p&gt;
   &lt;a
