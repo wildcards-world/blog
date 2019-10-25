@@ -52,7 +52,8 @@
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "deploy": "gatsby build && gh-pages -d public -b gh-pages",
+    "make-cname": "echo 'blog.wildcards.world' >public/CNAME",
+    "deploy": "npm run make-cname && gatsby build && gh-pages -d public -b gh-pages",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   }
 }
