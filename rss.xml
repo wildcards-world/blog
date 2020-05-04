@@ -1,4 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wildcards Blog]]></title><description><![CDATA[Wildcards blog - Ethereum based conservation tokens.]]></description><link>https://blog.wildcards.world</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 24 Dec 2019 16:37:47 GMT</lastBuildDate><item><title><![CDATA[Let the world know about your contributions]]></title><description><![CDATA[Wildcards is excited to announce a new feature, cryptographically verifiable attestations of identity! What exactly does this mean, in…]]></description><link>https://blog.wildcards.world/let-the-world-know-who-you-are/</link><guid isPermaLink="false">https://blog.wildcards.world/let-the-world-know-who-you-are/</guid><pubDate>Sun, 22 Dec 2019 16:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Wildcards is excited to announce a new feature, cryptographically verifiable attestations of identity!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wildcards Blog]]></title><description><![CDATA[Wildcards blog - Ethereum based conservation tokens.]]></description><link>https://blog.wildcards.world</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 04 May 2020 14:23:18 GMT</lastBuildDate><item><title><![CDATA[Community governance through quadratic voting at Italy's first Ethereum hackathon [Remote edition]]]></title><description><![CDATA[TLDR; We are launching a new wildcard (Glen the Dragon) in the next 48 hours! Funds raised by Glen the dragon will go to a conservation as…]]></description><link>https://blog.wildcards.world/ethturin/</link><guid isPermaLink="false">https://blog.wildcards.world/ethturin/</guid><pubDate>Mon, 04 May 2020 10:12:03 GMT</pubDate><content:encoded>&lt;p&gt;TLDR; We are launching a new wildcard (Glen the Dragon) in the next 48 hours! Funds raised by &lt;a href=&quot;https://wildcards.world/#details/Glen&quot;&gt;Glen the dragon&lt;/a&gt; will go to a conservation as voted by the wildcards community [on-chain quadratic voting].&lt;/p&gt;
+&lt;p&gt;Hackathons are really fun events. It feels a bit like you are given a blank canvas. No rules. No limitations. Just try to think of the coolest and craziest possible ideas, get together some friends, and build them!&lt;/p&gt;
+&lt;p&gt;Berlin, Bangalore, Cape Town, London and Paris are some of the epic destinations we’ve (our team wildcards) hacked at so far. I’ll never forget brainstorming till 3am in India’s most dodgy hostel. Jason Smythe was so excited about our idea he was regularly throwing in legit dance moves during the conversation.&lt;/p&gt;
+&lt;p&gt;The next stop was going to be Turin, Italy for the exciting ETHTurin. Obviously, Italy in the flesh right now, was not exactly an option #COVID19. Fortunately, this didn’t stop us or the organizers, as it became an awesome virtual affair.&lt;/p&gt;
+&lt;p&gt;About a year ago, we built wildcards, a platform connecting animal conversations to environmentalists, through a social and gamified experience. For this hackathon, we were brainstorming ways that we could allow our users to govern wildcards as much as possible.&lt;/p&gt;
+&lt;p&gt;Thought number one: Since we raise funds conservation, why not let the users who contribute funds vote for which conservation the funds should be directed towards?&lt;/p&gt;
+&lt;p&gt;Thought number two: Why not use the trendy Quadratic Voting as our governance mechanism?&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4f9530d40d7cc864fe9bc4742139fe41/e1d7b/400nxr.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 80.16129032258064%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAedY0DmFJ//EABsQAAEFAQEAAAAAAAAAAAAAAAEAAgMRIRIi/9oACAEBAAEFAonezI9AZxaEdK9//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAIBBQEAAAAAAAAAAAAAAAECABARITGhcf/aAAgBAQAGPwKytyYblFCnQmBc+0//xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMUFhcYH/2gAIAQEAAT8hcTCzLRzMg5t0nu+S1CrdqIjIaakao7n/2gAMAwEAAgADAAAAEMz/AP/EABcRAAMBAAAAAAAAAAAAAAAAAAABEUH/2gAIAQMBAT8QSws//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EK2P/8QAHRABAAICAgMAAAAAAAAAAAAAAREhADFBUWGBof/aAAgBAQABPxAGQclAdOESV0nL6jy50LNryxgpAMSC7LbucMIxNejnfxwShIW2c//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Quadratic Voting&quot;
+        title=&quot;Quadratic voting so hot right now!&quot;
+        src=&quot;/static/4f9530d40d7cc864fe9bc4742139fe41/c739e/400nxr.jpg&quot;
+        srcset=&quot;/static/4f9530d40d7cc864fe9bc4742139fe41/8ee9c/400nxr.jpg 148w,
+/static/4f9530d40d7cc864fe9bc4742139fe41/ebbe7/400nxr.jpg 295w,
+/static/4f9530d40d7cc864fe9bc4742139fe41/c739e/400nxr.jpg 590w,
+/static/4f9530d40d7cc864fe9bc4742139fe41/e1d7b/400nxr.jpg 620w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;If you are lost, do not fear. I’m going to break everything down step by step.&lt;/p&gt;
+&lt;p&gt;So wait, first off, how are the funds for the conservation generated?
+Wildcards are effectively digital animals that have a guardian. The guardians of wildcards pay a self assessed fee to the conservation in order to hold the title of guardian. The super interesting always for sale price discovery mechanism is something you can read about more here when you get the&lt;/p&gt;
+&lt;p&gt;Who is Glen the Dragon?
+Glen the Dragon.Glen the dragon of Turin emerged from the Alps just North of the city. Head over here to learn more about his magical origin. 
+Glen is a wildcard, where all the funds raised by Glen the dragon, will go to a conservation as voted by the wildcards community.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f84b46cbf5a0ec705a3f026a05d6fdfa/6ff5e/Glen.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADzElEQVQ4y5VVbUxbVRi+LfixmJj4FX/o/ONPoz82E39svwxZlB+SOHWZjkiyNGmcuC8dM6BuacK0W4iTRXE6ymS0Mgcr9CID+nnbW9pL6cpHoaVlbBNGERmsg96uvfc83t62BFaWbG9yc07ec97nPO85z/teinqAweFYnafMrDI/Z+pXqEey+pd4CkwWjDiYzdL3snwAtqzuOU7h4QH1OwkFl01mxF9ht8Ft+2fg0MQuNYXXMj7NY0TB7Y88Gss7poAiy2r/4xi08VNnxnHmTagyvgulqSKw9ocDIgxD/bZNyN+ismvPzI9pO51c1Ceg24ljGW/vkUSxvCrtzY9kzXydDdeEqNZyyOzqSvCc4zuQL0u+RqdmEoGTSXPuIAWud+cBFGvJbGjOr2aLMqN1X6wsaBRRsf2YaD57W5jUzoOpmPggsxY5NfIEnI7iHFCxBFy0IUPYLNRTVJZh+OeY6XeNGU313elAE8SuijScB6ejwMkXV/czjlclFVTkZVYAOKq9JoO5S1ufCer4hdYGDwbaEyJdCXQehHBLdwtwWUdhZd6Hz6IidiYqge7IsVMWpHuzcUx2ztePbfU0/Cd66FmMG3nStEMkf6p5LPd5hSHtDfTUzAGWIOC2r8zpApsyMdzRm4oCwKVLXvku4ud7yqLNPIa6F0Vfh5FYT4DQtdME/zpgVC+In5vGhMvaSaDHtYTYlefz8We3kvWAK7RHBhT7rKpQ3V34W1JC+65ZcuHTZfhbI2S4IQKtaoFUB73kwOCgeOOXcYDr3V35NDZffI9/pbB+GUdOY/ZD8Acw18il6S1TxK25B+O5EI6fD+N7XRh19DC8V1lx6HQUnHZpquML7G1+h3yoUZIn1wvbwciA6T7nPkQ4hKu8aXr3HTLiAfm7LYwpXz9Wov1IBDmSdrPiyDke023Xrufj20pvK+8HlB2C1VkCH4t5nUs0V8bJUAtI+GKSsI0xzLg4EguwxGWYJRP6JcBuiS/bA89mS/WH+1PO6mjaYC0G6xyF5Sp6jtxL0R/FSbc6QaIuEFdLknBdKcFnEJNwjEkysvnz8XeNnsJK8f1klB8m3Kwvu7Qngs7D0mPW8NCXJ8H+CvR+nEDoVAKQJAindVGws9vz2a3toeua6mS7SdaU+l3VXsO3+hmuziJ0VLeJHdW9aV+tKQ6aGQBrOZGy9ssvCyej2LhL51I+WlYu3Ue2iQIHNmH8r9cxcvktDP7xBvjTL+TXMrZgGJAz8leFqQKGcjf+5LA80hoN9dnbVcoH/iKcriKpQcjMQrWj0sHfyP7/AYobh4w0te1AAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Glen&quot;
+        title=&quot;Glen the dragon&quot;
+        src=&quot;/static/f84b46cbf5a0ec705a3f026a05d6fdfa/b9e4f/Glen.png&quot;
+        srcset=&quot;/static/f84b46cbf5a0ec705a3f026a05d6fdfa/cf440/Glen.png 148w,
+/static/f84b46cbf5a0ec705a3f026a05d6fdfa/d2d38/Glen.png 295w,
+/static/f84b46cbf5a0ec705a3f026a05d6fdfa/b9e4f/Glen.png 590w,
+/static/f84b46cbf5a0ec705a3f026a05d6fdfa/f9b6a/Glen.png 885w,
+/static/f84b46cbf5a0ec705a3f026a05d6fdfa/2d849/Glen.png 1180w,
+/static/f84b46cbf5a0ec705a3f026a05d6fdfa/6ff5e/Glen.png 1200w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Hold up, Quadratic voting?
+In its most basic form, the power of a vote, is the square root of its size. I.e. a vote of size 9 will have a power of 3, a vote of size 100 will only have a power 10 etc. The desired result is that users with large amounts of voting power cannot radically swing the result toward one specific candidate. 
+The idea of Quadratic voting is explored extensively in the book, Radical Economics, and therefore named after one author Glen Weyl.&lt;/p&gt;
+&lt;p&gt;Who gets to vote?
+Anyone who is the guardian of a wildcard, is rewarded with 1 wildcard loyalty token per day. The guardian can then use these loyalty tokens to vote for the conservation that they believe should receive the funds raised from Glen the Dragon. The vote will happen on a monthly basis.&lt;/p&gt;
+&lt;p&gt;That’s it! We are super stoked that we managed to nab 3rd place at the ETHTurin hackathon. Thanks to Denham Preen, Jason Smythe and Andrew Stanger for being such cool teammates. 
+It’s time to grab a wildcard and start voting on where you want to see the money go!&lt;/p&gt;
+&lt;p&gt;Follow our socials to learn more about our project and the conservation causes we are working towards.&lt;/p&gt;
+&lt;p&gt;Follow us on twitter: &lt;a href=&quot;https://twitter.com/wildcards_world&quot;&gt;@wildcards_world&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow us on Facebook: &lt;a href=&quot;https://www.facebook.com/wildcardscrypto&quot;&gt;@wildcardscrypto&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Join us on Telegram: &lt;a href=&quot;https://t.me/wildcardsworld&quot;&gt;Telegram&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Let the world know about your contributions]]></title><description><![CDATA[Wildcards is excited to announce a new feature, cryptographically verifiable attestations of identity! What exactly does this mean, in…]]></description><link>https://blog.wildcards.world/let-the-world-know-who-you-are/</link><guid isPermaLink="false">https://blog.wildcards.world/let-the-world-know-who-you-are/</guid><pubDate>Sun, 22 Dec 2019 16:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Wildcards is excited to announce a new feature, cryptographically verifiable attestations of identity!&lt;/p&gt;
 &lt;h3&gt;What exactly does this mean, in simple terms?&lt;/h3&gt;
 &lt;p&gt;The owner of a wildcard can now have their twitter handle publicly displayed on our website showing they are the owner.&lt;/p&gt;
 &lt;p&gt;Go forth and show you believe in wildlife conservation!&lt;/p&gt;
