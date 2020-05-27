@@ -1,8 +1,9 @@
 ---
 title: Build your first Harberger Tax App - Part 1
 date: "2020-05-27T14:12:03.284Z"
+featuredImage: "./red-balloon-sale.jpg"
 author: Jason Smythe
-description: A wildcards announcement and public disclaimer
+description: A tutorial that shows you all the parts that come together to create https://wildcards.world. It acts as a good starting point if you want to create your own app that uses harberger tax.
 ---
 
 # Build your first Harberger Tax App - Part 1
@@ -20,6 +21,8 @@ This tutorial has 3 parts:
 - First part is to deploy the smart contracts.
 - Second part is to create a subgraph that allows you to easily query data from the blockchain.
 - The final step is to run a sample UI
+
+> **_Aside_**: While we truly love thegraph and the power it gives, it also adds quite a lot of config and complexity to an application. I wouldn't recommend using the graph for very small and quick projects, for that it is simpler to just query blockchain data directly from the blockchain via a provider such as (infura.io)[https://infura.io].
 
 ## Get the contracts and deploy them.
 
@@ -148,6 +151,8 @@ You should be able to now buy token #0 (the starter code has this value hardcode
 To hit the ground running with your own custom UI code you will need to start with the `app.js` file. The code should be easy to follow.
 
 For doing more advanced enhancements to this code, check out tutorial #2 of this series!
+
+---
 
 Visit our website [Wildcards](https://wildcards.world) where you can buy some wildcards and start contributing toward endangered animal conservation today! Follow our socials to learn more about our project and the conservation causes we are working towards.
 
