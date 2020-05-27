@@ -22,7 +22,7 @@ This tutorial has 3 parts:
 - Second part is to create a subgraph that allows you to easily query data from the blockchain.
 - The final step is to run a sample UI
 
-> **_Aside_**: While we truly love thegraph and the power it gives, it also adds quite a lot of config and complexity to an application. I wouldn't recommend using the graph for very small and quick projects, for that it is simpler to just query blockchain data directly from the blockchain via a provider such as (infura.io)[https://infura.io].
+> **_Aside_**: While we truly love thegraph and the power it gives, it also adds quite a lot of config and complexity to an application. I wouldn't recommend using the graph for very small and quick projects, for that it is simpler to just query blockchain data directly from the blockchain via a provider such as [infura.io](https://infura.io).
 
 ## Get the contracts and deploy them.
 
