@@ -14,7 +14,7 @@ We’re excited today to announce a host of new features powered by our upcoming
 
 Currently, every wildcard NFT is always for sale. This is because every wildcard guardian (owner) is required to set a selling price and pay a percentage of this selling price each month to our conservation partners. This concept is technically known as a Harberger tax.
 
-[![Video explainer of integration](./chainlink-wc-video.jpg)](https://youtu.be/rpQCKoRvyR4)
+`https://www.youtube.com/watch?v=rpQCKoRvyR4&feature=youtu.be`
 
 Our new features will be based on randomness provided by Chainlink VRF (Verifiable Randomness Function). [Chainlink VRF](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) is a randomness solution for smart contracts, providing auditable, cryptographic guarantees that each random result is unbiased and fair.
 
