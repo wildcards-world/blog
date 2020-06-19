@@ -65,11 +65,11 @@ function SEO({ description, lang, meta, keywords, title, thumbnail }) {
         },
         {
           property: `og:image`,
-          content: `https://blog.wildcards.world/wildcards-chainlink.jpg`,
+          content: image,
         },
         {
           property: `twitter:image`,
-          content: `https://blog.wildcards.world/wildcards-chainlink.jpg`,
+          content: image,
         },
         {
           name: `twitter:card`,
