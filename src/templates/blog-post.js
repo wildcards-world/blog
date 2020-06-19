@@ -14,11 +14,13 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const { title, disqusShortname } = this.props.data.site.siteMetadata
     const maxWidth = rhythm(27)
+    const thumbnail = post.frontmatter.thumbnail
     return (
       <Layout location={this.props.location} title={title}>
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
+          thumbnail={thumbnail}
         />
         <div
           style={{
@@ -80,7 +82,7 @@ class BlogPostTemplate extends React.Component {
             >
               Responses
             </p> */}
-            {/* <div
+          {/* <div
               style={{
                 backgroundColor: "#ffffff",
                 padding: rhythm(1),

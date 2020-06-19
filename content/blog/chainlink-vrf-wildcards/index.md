@@ -2,6 +2,7 @@
 title: Announcing New Wildcards Features Powered By Chainlink VRF
 date: "2020-06-19T15:12:03.284Z"
 featuredImage: "./WildCards-chainlink.jpg"
+thumbnail: "./WildCards-chainlink.jpg"
 author: Jason Smythe
 description: Wildcards will be using Chainlink VRF for 2 exciting new features.
 ---
@@ -14,7 +15,7 @@ We’re excited today to announce a host of new features powered by our upcoming
 
 Currently, every wildcard NFT is always for sale. This is because every wildcard guardian (owner) is required to set a selling price and pay a percentage of this selling price each month to our conservation partners. This concept is technically known as a Harberger tax.
 
-`https://www.youtube.com/watch?v=rpQCKoRvyR4&feature=youtu.be`
+`youtube:https://www.youtube.com/embed/rpQCKoRvyR4`
 
 Our new features will be based on randomness provided by Chainlink VRF (Verifiable Randomness Function). [Chainlink VRF](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) is a randomness solution for smart contracts, providing auditable, cryptographic guarantees that each random result is unbiased and fair.
 
