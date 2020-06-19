@@ -34,13 +34,13 @@ module.exports = {
             options: {
               width: 1000,
               height: 500,
-              margin: `auto`
-            }
+              margin: `auto`,
+            },
           },
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 590,
+              maxWidth: 1000,
             },
           },
           {
@@ -60,7 +60,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-139348292-3`
+        trackingId: `UA-139348292-3`,
       },
     },
     `gatsby-plugin-feed`,
