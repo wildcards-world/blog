@@ -9,6 +9,8 @@ description: Wildcards will be using Chainlink VRF for 2 exciting new features.
 
 # Announcing New Wildcards Features Powered By Chainlink VRF
 
+![chainlink](./WildCards-chainlink.jpg "Wildcards x Chainlink")
+
 We’re excited today to announce a host of new features powered by our upcoming integration with Chainlink VRF! These features will expand the Wildcards ecosystem, ultimately helping us better connect global conservation organizations and users through a social, gamified, and transparent platform.
 
 > [Wildcards](https://wildcards.world) are NFTs, with each token representing a unique animal from one of our partner conservation organizations.

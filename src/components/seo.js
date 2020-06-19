@@ -28,6 +28,9 @@ function SEO({ description, lang, meta, keywords, title, thumbnail }) {
   const metaDescription = description || site.siteMetadata.description
 
   const imageSrc = thumbnail && thumbnail.childImageSharp.sizes.src
+  console.log("thumbnail")
+  console.log(thumbnail)
+  console.log(imageSrc)
 
   let origin = ""
   if (typeof window !== "undefined") {
@@ -62,11 +65,11 @@ function SEO({ description, lang, meta, keywords, title, thumbnail }) {
         },
         {
           property: `og:image`,
-          content: image,
+          content: `https://blog.wildcards.world/wildcards-chainlink.jpg`,
         },
         {
           property: `twitter:image`,
-          content: image,
+          content: `https://blog.wildcards.world/wildcards-chainlink.jpg`,
         },
         {
           name: `twitter:card`,

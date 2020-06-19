@@ -14,7 +14,10 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const { title, disqusShortname } = this.props.data.site.siteMetadata
     const maxWidth = rhythm(27)
-    const thumbnail = post.frontmatter.thumbnail
+    const thumbnail = post.frontmatter.featuredImage
+    console.log("thumbnail in piost")
+    console.log(post.frontmatter)
+    console.log(post.frontmatter.featuredImage)
     return (
       <Layout location={this.props.location} title={title}>
         <SEO
@@ -130,6 +133,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+
         date(formatString: "MMMM DD, YYYY")
         description
       }
