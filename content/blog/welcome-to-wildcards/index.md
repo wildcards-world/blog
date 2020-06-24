@@ -2,8 +2,8 @@
 title: Welcome to wildcards
 date: "2019-08-09T16:12:03.284Z"
 author: JonJon Clark
-featuredImage: ./vitalik.png
-description: Wildcards is always for sale conservation crypto tokens built on Ethereum. 
+featuredImage: "./vitalik.png"
+description: Wildcards is always for sale conservation crypto tokens built on Ethereum.
 ---
 
 Welcome to the world of wildcards! What on earth is wildcards?!
@@ -26,6 +26,7 @@ Why stop there? Next stop #ETHIndia2019 for some more coding and team ideation. 
 <sup>The team in India</sup>
 
 ## What are wildcards?
+
 Wildcards are unique digital assets… See below.
 
 ![Vitalik](./vitalik.png "Vitalik Wildcard")
@@ -48,7 +49,7 @@ If you are lost… don’t worry — we made this cool little video which should
 
 Our team was selected to be part of Ubisoft Entrepreneurs lab in Station F, Paris. See below…
 
->As part of the Strategic Innovation Lab, the Ubisoft Entrepreneurs Lab’s mission is to team up with innovative startups to explore technologies or trends that might become critical for Ubisoft in the future. We work with each startup batch for a six-month long season, striving to create valuable collaborations between each startup and the Ubisoft Group as a whole.
+> As part of the Strategic Innovation Lab, the Ubisoft Entrepreneurs Lab’s mission is to team up with innovative startups to explore technologies or trends that might become critical for Ubisoft in the future. We work with each startup batch for a six-month long season, striving to create valuable collaborations between each startup and the Ubisoft Group as a whole.
 
 ## What’s next?
 

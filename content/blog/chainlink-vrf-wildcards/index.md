@@ -2,7 +2,6 @@
 title: Announcing New Wildcards Features Powered By Chainlink VRF
 date: "2020-06-19T15:12:03.284Z"
 featuredImage: "./WildCards-chainlink.jpg"
-thumbnail: "./WildCards-chainlink.jpg"
 author: Jason Smythe
 description: Wildcards will be using Chainlink VRF for 2 exciting new features.
 ---

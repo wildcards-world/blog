@@ -4,7 +4,7 @@ description: >-
   Wildcards is excited to announce a new feature, cryptographically verifiable
   attestations of identity!
 date: "2019-12-22T16:12:03.284Z"
-featuredImage: ./verified-wildcards.png
+featuredImage: "./verified-wildcards.png"
 categories: []
 keywords: []
 slug: ""

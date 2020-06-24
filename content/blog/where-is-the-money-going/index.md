@@ -2,7 +2,7 @@
 title: Where is the money going?
 date: "2019-11-12T16:12:03.284Z"
 author: Denham Preen
-featuredImage: ./money.gif
+featuredImage: "./money.gif"
 description: A wildcards announcement and public disclaimer
 ---
 

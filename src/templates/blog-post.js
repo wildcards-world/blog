@@ -14,16 +14,14 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const { title, disqusShortname } = this.props.data.site.siteMetadata
     const maxWidth = rhythm(27)
-    const thumbnail = post.frontmatter.featuredImage
-    console.log("thumbnail in piost")
-    console.log(post.frontmatter)
-    console.log(post.frontmatter.featuredImage)
+    const featuredImage = post.frontmatter.featuredImage
+
     return (
       <Layout location={this.props.location} title={title}>
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
-          thumbnail={thumbnail}
+          featuredImage={featuredImage}
         />
         <div
           style={{
@@ -135,7 +133,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
-        thumbnail {
+        featuredImage {
           childImageSharp {
             sizes(maxWidth: 600) {
               ...GatsbyImageSharpSizes

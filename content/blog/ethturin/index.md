@@ -2,7 +2,7 @@
 title: Community governance through quadratic voting at Italy's first Ethereum hackathon [Remote edition]
 date: "2020-05-04T10:12:03.284Z"
 author: Jonjon Clark
-featuredImage: ./Glen.png
+featuredImage: "./Glen.png"
 description: We are launching a new wildcard (Glen the Dragon) in the next 48 hours! Funds raised by Glen the dragon will go to a conservation as voted by the wildcards community [on-chain quadratic voting].
 ---
 

@@ -10,7 +10,7 @@ import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-function SEO({ description, lang, meta, keywords, title, thumbnail }) {
+function SEO({ description, lang, meta, keywords, title, featuredImage }) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -27,10 +27,7 @@ function SEO({ description, lang, meta, keywords, title, thumbnail }) {
 
   const metaDescription = description || site.siteMetadata.description
 
-  const imageSrc = thumbnail && thumbnail.childImageSharp.sizes.src
-  console.log("thumbnail")
-  console.log(thumbnail)
-  console.log(imageSrc)
+  const imageSrc = featuredImage && featuredImage.childImageSharp.sizes.src
 
   let origin = ""
   if (typeof window !== "undefined") {
@@ -65,11 +62,11 @@ function SEO({ description, lang, meta, keywords, title, thumbnail }) {
         },
         {
           property: `og:image`,
-          content: `https://blog.wildcards.world/wildcards-chainlink.jpg`,
+          content: image,
         },
         {
           property: `twitter:image`,
-          content: `https://blog.wildcards.world/wildcards-chainlink.jpg`,
+          content: image,
         },
         {
           name: `twitter:card`,
