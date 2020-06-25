@@ -34,7 +34,7 @@ function SEO({ description, lang, meta, keywords, title, featuredImage }) {
     origin = window.location.origin
   }
 
-  const image = origin + imageSrc
+  const image = origin + imageSrc + "?no=cache"
 
   return (
     <Helmet
@@ -65,7 +65,7 @@ function SEO({ description, lang, meta, keywords, title, featuredImage }) {
           content: image,
         },
         {
-          property: `twitter:image`,
+          name: `twitter:image`,
           content: image,
         },
         {
