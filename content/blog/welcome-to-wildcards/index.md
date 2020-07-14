@@ -8,7 +8,7 @@ description: Wildcards is always for sale conservation crypto tokens built on Et
 
 Welcome to the world of wildcards! What on earth is wildcards?!
 
-> It’s a project started by friends to help generate sustainable and meaningful contributions toward endangered animal conservation.
+> It’s a project started by friends to help generate sustainable and meaningful contributions toward at risk animal conservation.
 
 So let’s quickly go through some of the main questions you may have right now…
 
@@ -32,7 +32,7 @@ Wildcards are unique digital assets… See below.
 ![Vitalik](./vitalik.png "Vitalik Wildcard")
 <sup>Example of wildcard (Vitalik)</sup>
 
-Every wildcard represents an endangered animal, with funds generated from this wildcard flowing toward the conservation organisation representing and protecting that animal.
+Every wildcard represents an at risk animal, with funds generated from this wildcard flowing toward the conservation organisation representing and protecting that animal.
 
 Wildcards can easily be bought by anyone at anytime. Hence, we say that our wildcards are ‘always for sale’.
 
@@ -58,7 +58,7 @@ More good news! We are going to release a bunch of new wildcards next week — a
 
 ## How can I get involved?
 
-Visit our website [Wildcards](https://wildcards.world) where you can go ahead, buy a wildcard, and start contributing toward endangered animal conservation.
+Visit our website [Wildcards](https://wildcards.world) where you can go ahead, buy a wildcard, and start contributing toward at risk animal conservation.
 
 Follow our socials to learn more about our project and the conservation causes we are working towards.
 

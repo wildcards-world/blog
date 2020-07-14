@@ -42,7 +42,7 @@ Want to learn more? Visit [Carbon Credits](https://carboncredits.club/)
 
 ---
 
-Remember to visit our website [Wildcards](https://wildcards.world) where you can buy some wildcards and start contributing toward endangered animal conservation today! Follow our socials to learn more about our project and the conservation causes we are working towards.
+Remember to visit our website [Wildcards](https://wildcards.world) where you can buy some wildcards and start contributing toward at risk animal conservation today! Follow our socials to learn more about our project and the conservation causes we are working towards.
 
 Follow us on twitter: [@wildcards_world](https://twitter.com/wildcards_world)
 
