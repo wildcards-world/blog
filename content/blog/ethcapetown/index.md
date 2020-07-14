@@ -32,7 +32,7 @@ Check out the video demo below of all the winners of EthCapeTown and their proje
 
 `youtube:https://youtube.com/embed/YTso8-cqSN8?t=226`
 
-Visit our website [Wildcards](https://wildcards.world) where you can go ahead, buy a wildcard, and start contributing toward endangered animal conservation.
+Visit our website [Wildcards](https://wildcards.world) where you can go ahead, buy a wildcard, and start contributing toward at risk animal conservation.
 
 Follow our socials to learn more about our project and the conservation causes we are working towards.
 

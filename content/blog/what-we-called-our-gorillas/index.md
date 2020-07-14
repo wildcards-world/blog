@@ -18,7 +18,7 @@ Let's start with Simon. We forked some pretty awesome code from Simon. Seriously
 
 ![Vitalik](./vitalik2.png "Vitalik Wildcard")
 
-Next, Vitalik Buterin. Believe it or not, Vitalik managed to crack a rare smile during our hackathon presentation, and that was good enough for us. Rumour has it he is stashing his eth away in anticipation to buy the newly released wildcards and save endangered animals.
+Next, Vitalik Buterin. Believe it or not, Vitalik managed to crack a rare smile during our hackathon presentation, and that was good enough for us. Rumour has it he is stashing his eth away in anticipation to buy the newly released wildcards and save at risk animals.
 
 ## Andy
 
@@ -26,7 +26,7 @@ Next, Vitalik Buterin. Believe it or not, Vitalik managed to crack a rare smile 
 
 It was 4 am on Sunday, and before we collapsed on mattresses at the hackathon hall, we found Andy "CryptoWanderer" Tudhope reading some profound book. Andy encouraged us to attend ETHIndia (which turned out to be an amazing experience).
 
-Visit our website [Wildcards](https://wildcards.world) where you can go ahead, and buy a Simon, Vitalik and Andy, and start contributing toward endangered animal conservation today!
+Visit our website [Wildcards](https://wildcards.world) where you can go ahead, and buy a Simon, Vitalik and Andy, and start contributing toward at risk animal conservation today!
 
 Follow our socials to learn more about our project and the conservation causes we are working towards.
 

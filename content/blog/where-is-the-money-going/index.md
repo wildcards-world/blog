@@ -39,7 +39,7 @@ One more crucial figure… it is only 0.0000006% of the [yearly amount](https://
 Obviously, this is a valid concern, we love Bob Marley. In serious terms, we recognize that the money cannot continue to flow through us toward the conservation, as this requires everyone to trust team wildcards, and we all know that is the thing least liked by the decentralized community. 
 Luckily we are flipping Ninjas when it comes to smart contracts and so we can change the address that receives the funds. The funds generated will flow directly to the public address of an organization. The organization will verify their address on twitter or through their website. Trust is then held at the organization level.
 
-Visit our website [Wildcards](https://wildcards.world) where you can buy some wildcards and start contributing toward endangered animal conservation today! Follow our socials to learn more about our project and the conservation causes we are working towards.
+Visit our website [Wildcards](https://wildcards.world) where you can buy some wildcards and start contributing toward at risk animal conservation today! Follow our socials to learn more about our project and the conservation causes we are working towards.
 
 Follow us on twitter: [@wildcards_world](https://twitter.com/wildcards_world)
 
