@@ -15,6 +15,10 @@ class BlogPostTemplate extends React.Component {
     const { title, disqusShortname } = this.props.data.site.siteMetadata
     const maxWidth = rhythm(27)
     const featuredImage = post.frontmatter.featuredImage
+    const author = post.frontmatter.author
+
+    console.log("author")
+    console.log(author)
 
     return (
       <Layout location={this.props.location} title={title}>
@@ -40,7 +44,7 @@ class BlogPostTemplate extends React.Component {
             >
               {post.frontmatter.title}
             </h1>
-            <ShortBio post={post} />
+            <ShortBio post={post} postAuthor={author} />
             <br />
             <div dangerouslySetInnerHTML={{ __html: post.html }} />
             <hr
@@ -48,7 +52,7 @@ class BlogPostTemplate extends React.Component {
                 marginBottom: rhythm(1),
               }}
             />
-            <Bio />
+            <Bio postAuthor={author} />
           </div>
         </div>
         <br />
@@ -133,6 +137,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        author
         featuredImage {
           childImageSharp {
             sizes(maxWidth: 600) {

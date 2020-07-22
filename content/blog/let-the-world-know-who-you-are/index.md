@@ -5,6 +5,7 @@ description: >-
   attestations of identity!
 date: "2019-12-22T16:12:03.284Z"
 featuredImage: "./verified-wildcards.png"
+author: Jason Smythe
 categories: []
 keywords: []
 slug: ""

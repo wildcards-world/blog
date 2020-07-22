@@ -6,7 +6,14 @@ import { StaticQuery, graphql } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
 
-function ShortBio({ post, hideAvatar, hideAuthor, hideDate, hideReadTime }) {
+function ShortBio({
+  post,
+  hideAvatar,
+  hideAuthor,
+  hideDate,
+  hideReadTime,
+  postAuthor,
+}) {
   return (
     <StaticQuery
       query={shortBioQuery}
@@ -46,7 +53,7 @@ function ShortBio({ post, hideAvatar, hideAuthor, hideDate, hideReadTime }) {
                     color: "black",
                   }}
                 >
-                  {author}
+                  {postAuthor}
                 </p>
               )}
               <p
@@ -75,6 +82,7 @@ ShortBio.propTypes = {
   hideAvatar: PropTypes.bool,
   hideDate: PropTypes.bool,
   hideReadTime: PropTypes.bool,
+  postAuthor: PropTypes.string,
 }
 
 ShortBio.defaultProps = {
@@ -82,6 +90,7 @@ ShortBio.defaultProps = {
   hideAvatar: false,
   hideDate: false,
   hideReadTime: false,
+  postAuthor: "Wildcards Team",
 }
 
 const shortBioQuery = graphql`

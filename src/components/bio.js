@@ -11,7 +11,7 @@ import Image from "gatsby-image"
 
 import { rhythm, scale } from "../utils/typography"
 
-function Bio() {
+function Bio({ postAuthor }) {
   return (
     <StaticQuery
       query={bioQuery}
@@ -40,7 +40,7 @@ function Bio() {
               }}
             />
             <div>
-              <strong>{author}</strong>
+              <strong>{postAuthor}</strong>
               <p
                 style={{
                   ...scale(-1 / 5),
@@ -49,7 +49,7 @@ function Bio() {
                 Lover of bamboo shoots, foraging and shaddy branches
                 <br />
                 You can connect with me via{" "}
-                <a href={`https://twitter.com/${twitter}`}>Twitter</a> or {" "}
+                <a href={`https://twitter.com/${twitter}`}>Twitter</a> or{" "}
                 <a href={`https://facebook.com/wildcardscrypto`}>Facebook</a>.
               </p>
             </div>

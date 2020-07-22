@@ -71,5 +71,3 @@ Follow Wildcards on twitter: [@wildcards_world](https://twitter.com/wildcards_wo
 Follow Wildcards on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcardscrypto)
 
 Join us on Telegram: [Telegram](https://t.me/wildcardsworld)
-
-**Rio Button**

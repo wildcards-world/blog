@@ -6,7 +6,7 @@ import ShortBio from "./ShortBio"
 
 function PostCard({ data }) {
   const { excerpt, fields, frontmatter } = data
-  const { title } = frontmatter
+  const { title, author } = frontmatter
   const { slug } = fields
   return (
     <div
@@ -52,7 +52,7 @@ function PostCard({ data }) {
         {excerpt.substring(0, 100) + "..."}
       </p>
       <br />
-      <ShortBio post={data} />
+      <ShortBio post={data} postAuthor={author} />
     </div>
   )
 }

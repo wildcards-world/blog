@@ -4,6 +4,7 @@ description: >-
   In October last year, we had the privilege of attending the CV Labs Incubator program as part of their batch 2
 date: "2020-04-21T16:12:03.284Z"
 featuredImage: "./verified-wildcards.png"
+author: Denham Preen
 categories: []
 keywords: []
 slug: ""
