@@ -21,3 +21,15 @@ npm run deploy
 ## Tool to convert medium article to mark down
 
 https://medium.com/@macropus/export-your-medium-posts-to-markdown-b5ccc8cb0050
+
+install:
+
+```
+npm install -g mediumexporter
+```
+
+Example usage:
+
+```
+mediumexporter https://medium.com/wildcards-world/how-to-keep-sharks-and-people-safe-3f63c5e5e1d > sharks.md
+```

@@ -24,7 +24,6 @@
     "gatsby-source-filesystem": "^2.0.33",
     "gatsby-transformer-remark": "^2.3.12",
     "gatsby-transformer-sharp": "^2.1.19",
-    "mediumexporter": "^0.1.6",
     "prismjs": "^1.16.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -40,7 +39,6 @@
     "typography-theme-wordpress-2016": "^0.16.19"
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1",
     "prettier": "^1.17.0"
   },
   "keywords": [
@@ -55,8 +53,6 @@
     "start": "npm run develop",
     "clean": "gatsby clean",
     "serve": "gatsby serve",
-    "make-cname": "echo 'blog.wildcards.world' >public/CNAME",
-    "deploy": "npm run make-cname && gatsby build && gh-pages -d public -b gh-pages",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   }
 }
