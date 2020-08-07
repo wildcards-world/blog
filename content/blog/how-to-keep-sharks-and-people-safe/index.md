@@ -2,8 +2,8 @@
 title: How to keep sharks and people safe?
 date: "2020-08-06T16:12:03.284Z"
 author: Rio Button
-featuredImage: "./web3.png"
-description: Why are there 6 different web3 providers I can use to buy a wildcard and what does that even mean?!
+featuredImage: "https://miro.medium.com/max/1400/0*00UkNOQ3EUpeZBSz"
+description: Who's really under attack, people or sharks?
 ---
 
 # How to keep sharks and people safe?
