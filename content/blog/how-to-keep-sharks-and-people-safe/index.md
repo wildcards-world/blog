@@ -6,8 +6,6 @@ featuredImage: "https://miro.medium.com/max/1400/0*00UkNOQ3EUpeZBSz"
 description: Who's really under attack, people or sharks?
 ---
 
-# How to keep sharks and people safe?
-
 August 2004: “Shark!” a surfer screamed. Chaos and confusion erupted. Whilst signalling a warning through wild arm gestures and shouting to those still in the water, panicked surfers frantically clawed to the safety of the shore. Hysteria spread through the waves packed with surfers along Muizenberg Beach, a 20km popular surfing beach in Cape Town, South Africa. At the time, big wave surfer Greg Bertish was teaching some friends to surf. When the warning finally reached them, they scrambled to join the mass exodus. Once Greg and his friends were safely on the sand, it took a further quarter of an hour for the remaining surfers to heed the warning and get out of the water.
 
 **Is killing sharks the only solution?**

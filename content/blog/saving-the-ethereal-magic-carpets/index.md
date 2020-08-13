@@ -10,8 +10,6 @@ keywords: []
 slug: ""
 ---
 
-# Saving the ethereal, magic carpets
-
 Photo by Michelle Carpenter
 
 **_“Every dive is an adventure, because you never know what amazing animal you might see below the surface that day,”_** Michelle Carpenter, a PhD student from Zavora Marine Lab tells me. For her “the most exciting animal to see is a manta ray.”
