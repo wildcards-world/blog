@@ -31,5 +31,5 @@ npm install -g mediumexporter
 Example usage:
 
 ```
-mediumexporter https://medium.com/wildcards-world/how-to-keep-sharks-and-people-safe-3f63c5e5e1d > sharks.md
+mediumexporter https://medium.com/wildcards-world/how-to-keep-sharks-and-people-safe-3f63c5e5e1d > content/shark-article-slug/blog/index.md
 ```
