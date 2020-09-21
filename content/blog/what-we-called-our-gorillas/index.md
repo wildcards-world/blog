@@ -30,11 +30,11 @@ Visit our website [Wildcards](https://wildcards.world) where you can go ahead, a
 
 Follow our socials to learn more about our project and the conservation causes we are working towards.
 
-Follow us on twitter: [@wildcards_world](https://twitter.com/wildcards_world)
+Follow us on Twitter: [@wildcards_world](https://twitter.com/wildcards_world)
 
-Follow us on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcardscrypto)
+Follow us on Facebook: [@wildcards.conservation](https://www.facebook.com/wildcards.conservation)
 
-Follow us on Telegram: [Telegram](https://t.me/wildcardsworld)
+Join us on [Discord](https://discord.gg/Wemmn63)
 
 ![thuglife](./thuggorilla.gif "Thuglife harberger tax")
 

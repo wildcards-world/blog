@@ -67,8 +67,10 @@ We are constantly working on new features to further integrate the human and fun
 
 Follow our socials to learn more about our project and the conservation causes we are working towards.
 
-Follow us on twitter: [@wildcards_world](https://twitter.com/wildcards_world)
+Follow us on Instagram: [@wildcards_world](https://www.instagram.com/wildcards_world)
 
-Follow us on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcardscrypto)
+Follow us on Twitter: [@wildcards_world](https://twitter.com/wildcards_world)
 
-Follow us on Telegram: [Telegram](https://t.me/wildcardsworld)
+Follow us on Facebook: [@wildcards.conservation](https://www.facebook.com/wildcards.conservation)
+
+Join us on [Discord](https://discord.gg/Wemmn63)

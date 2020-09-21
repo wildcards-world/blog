@@ -10,8 +10,6 @@ keywords: []
 slug: ""
 ---
 
-# What it’s like to attend a swiss blockchain incubator
-
 TL:DR; It’s great you should apply - [here](https://www.f6s.com/cvincubation/about)
 
 In October last year, we had the privilege of attending the CV Labs Incubator program as part of their batch 2. As I work from home in this tumultuous time, I thought it was a great opportunity to share our experience. Especially since CV Labs has opened applications for their Batch 3 in October 2020.
@@ -53,8 +51,10 @@ At the end of the program, you come out with a killer pitch, a rock-solid busine
 
 [1] Four CVVC founders: [Olaf Hannemann](https://www.linkedin.com/in/olaf-hannemann-360588/), [Marco Bumbacher](https://www.linkedin.com/in/marcobumbacher/), [Mathias Ruch](https://www.linkedin.com/in/mathiasruch/), [Ralf Glabischnig](https://www.linkedin.com/in/ralfglabischnig)
 
-Follow Wildcards on twitter: [@wildcards_world](https://twitter.com/wildcards_world)
+Follow Wildcards on Instagram: [@wildcards_world](https://www.instagram.com/wildcards_world)
 
-Follow Wildcards on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcardscrypto)
+Follow Wildcards on Twitter: [@wildcards_world](https://twitter.com/wildcards_world)
 
-Join Wildcards on Telegram: [Telegram](https://t.me/wildcardsworld)
+Follow Wildcards on Facebook: [@wildcards.conservation](https://www.facebook.com/wildcards.conservation)
+
+Join us on [Discord](https://discord.gg/Wemmn63)

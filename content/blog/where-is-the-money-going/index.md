@@ -6,8 +6,6 @@ featuredImage: "./screenshot.png"
 description: A wildcards announcement and public disclaimer
 ---
 
-# Where is the money going?
-
 Transparency is a beautiful feature of a blockchain and something we value highly. At the time of writing this, wildcards has raised 2.509 ETH or 469USD for conservation! We are extremely proud of this progress at wildcards HQ but it begs the question where is this money going? and what is it doing?
 
 ![Money](./money.gif "Money Wildcard")
@@ -41,11 +39,13 @@ Luckily we are flipping Ninjas when it comes to smart contracts and so we can ch
 
 Visit our website [Wildcards](https://wildcards.world) where you can buy some wildcards and start contributing toward at risk animal conservation today! Follow our socials to learn more about our project and the conservation causes we are working towards.
 
-Follow us on twitter: [@wildcards_world](https://twitter.com/wildcards_world)
+Follow us on Instagram: [@wildcards_world](https://www.instagram.com/wildcards_world)
 
-Follow us on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcardscrypto)
+Follow us on Twitter: [@wildcards_world](https://twitter.com/wildcards_world)
 
-Follow us on Telegram: [Telegram](https://t.me/wildcardsworld)
+Follow us on Facebook: [@wildcards.conservation](https://www.facebook.com/wildcards.conservation)
+
+Join us on [Discord](https://discord.gg/Wemmn63)
 
 As always, stay cool, stay safe and stay tuned
 

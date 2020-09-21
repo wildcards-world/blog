@@ -1,12 +1,10 @@
 ---
-title: Wildcards - How can we protect it, if we don’t know where it is?
+title: How can we protect it, if we don’t know where it is?
 date: "2020-07-21T15:12:03.284Z"
 featuredImage: ./bdi.png
 author: Rio Button
 description: One month there are millions of pinkie sized dragonflies zooming around the Maldives, the next month every last one is gone. And this happens year after year.
 ---
-
-# How can we protect it, if we don’t know where it is?
 
 ![](/bdi.png)
 
@@ -66,8 +64,10 @@ Also read:
 
 [\*\*Wildcards: an unprecedented means of funding conservation](https://blog.wildcards.world/wildcards-intro/)\*\*
 
-Follow Wildcards on twitter: [@wildcards_world](https://twitter.com/wildcards_world)
+Follow Wildcards on Instagram: [@wildcards_world](https://www.instagram.com/wildcards_world)
 
-Follow Wildcards on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcardscrypto)
+Follow Wildcards on Twitter: [@wildcards_world](https://twitter.com/wildcards_world)
 
-Join us on Telegram: [Telegram](https://t.me/wildcardsworld)
+Follow Wildcards on Facebook: [@wildcards.conservation](https://www.facebook.com/wildcards.conservation)
+
+Join us on [Discord](https://discord.gg/Wemmn63)
