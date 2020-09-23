@@ -6,8 +6,6 @@ author: Rio Button
 description: Wildcards is an unconventional strategy that is able to harness funding for conservation while simultaneously providing entertainment and dare we say, fun.
 ---
 
-# Wildcards: an unprecedented means of funding conservation
-
 **_Tech nerds and conservation agencies unite_**
 
 ![](./wildcards-blog-banner.jpg)
@@ -54,8 +52,10 @@ Well-known conservation agencies such as WWF already have extensive systems, pla
 
 With the world all but turned on its head and looking for fresh ways to reinvent itself, Wildcards has the potential to herald a new era of funding which is mutually beneficial and offers value along with visibility.
 
-Follow Wildcards on twitter: [@wildcards_world](https://twitter.com/wildcards_world)
+Follow Wildcards on Instagram: [@wildcards_world](https://www.instagram.com/wildcards_world)
 
-Follow Wildcards on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcardscrypto)
+Follow Wildcards on Twitter: [@wildcards_world](https://twitter.com/wildcards_world)
 
-Join us on Telegram: [Telegram](https://t.me/wildcardsworld)
+Follow Wildcards on Facebook: [@wildcards.conservation](https://www.facebook.com/wildcards.conservation)
+
+Join us on [Discord](https://discord.gg/Wemmn63)

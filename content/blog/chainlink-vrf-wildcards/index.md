@@ -6,8 +6,6 @@ author: Jason Smythe
 description: Wildcards will be using Chainlink VRF for 2 exciting new features.
 ---
 
-# Announcing New Wildcards Features Powered By Chainlink VRF
-
 ![chainlink](./WildCards-chainlink.jpg "Wildcards x Chainlink")
 
 We’re excited today to announce a host of new features powered by our upcoming integration with Chainlink VRF! These features will expand the Wildcards ecosystem, ultimately helping us better connect global conservation organizations and users through a social, gamified, and transparent platform.
@@ -50,11 +48,13 @@ Chainlink is a decentralized oracle network that enables smart contracts to secu
 
 Visit our website [Wildcards](https://wildcards.world) where you can buy some wildcards and start contributing toward at risk animal conservation today! Follow our socials to learn more about our project and the conservation causes we are working towards.
 
-Follow us on twitter: [@wildcards_world](https://twitter.com/wildcards_world)
+Follow us on Instagram: [@wildcards_world](https://www.instagram.com/wildcards_world)
 
-Follow us on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcardscrypto)
+Follow us on Twitter: [@wildcards_world](https://twitter.com/wildcards_world)
 
-Follow us on Telegram: [Telegram](https://t.me/wildcardsworld)
+Follow us on Facebook: [@wildcards.conservation](https://www.facebook.com/wildcards.conservation)
+
+Join us on [Discord](https://discord.gg/Wemmn63)
 
 As always, stay cool, stay safe and stay tuned
 

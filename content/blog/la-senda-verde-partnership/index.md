@@ -6,8 +6,6 @@ author: JonJon Clark
 description: We’re excited today to be talking about one of our first and favourite conservation partners, La Senda Verde!
 ---
 
-# Announcing Wildcards Conservation Partner - La Senda Verde
-
 ![La Senda Verde](https://dd2wadt5nc0o7.cloudfront.net/conservations/banners/la-senda-verde-banner.jpg "Wildcards x La Senda Verde")
 
 We’re excited today to be talking about one of our first and favourite conservation partners, La Senda Verde!
@@ -30,11 +28,13 @@ Tarkus the bear is one of the many animals being cared for at La Senda Verde. Yo
 
 Wildcards is a fun and engaging platform raising funds for animal conservations around the globe. Users can become the guardian of various cool animals, earn badges and rewards, rank on leaderboards, and help support conservation on a global scale. The platform also educates the public about the vast number of conservations working worldwide to ensure that the precious animals we have today will flourish tomorrow.
 
-Follow us on twitter: [@wildcards_world](https://twitter.com/wildcards_world)
+Follow us on Instagram: [@wildcards_world](https://www.instagram.com/wildcards_world)
 
-Follow us on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcardscrypto)
+Follow us on Twitter: [@wildcards_world](https://twitter.com/wildcards_world)
 
-Follow us on Telegram: [Telegram](https://t.me/wildcardsworld)
+Follow us on Facebook: [@wildcards.conservation](https://www.facebook.com/wildcards.conservation)
+
+Join us on [Discord](https://discord.gg/Wemmn63)
 
 As always, stay cool, stay safe and stay tuned
 

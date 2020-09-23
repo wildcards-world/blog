@@ -6,8 +6,6 @@ author: Jason Smythe
 description: A tutorial that shows you all the parts that come together to create https://wildcards.world. It acts as a good starting point if you want to create your own app that uses harberger tax.
 ---
 
-# Build your first Harberger Tax App - Part 1
-
 Wildcards has been running in production for many months, and all the code is opensource. However, we are yet to see a flourishing of applications built with harberger tax. This article aims to make the code that is used to build wildcards easily accessible to the public. There are quite a few manual steps in this tutorial, but if you follow everything step by step you will be able to have a default working harberger tax application on Ethereum with a UI in under 15 minutes.
 
 There are more links and explanations marked with the heading **_Extra_**. We highly encourage you to go through these, but if you just want to get started they are not necessary (and they will cause you to take longer than 15 minutes). If something goes wrong check if there are any **_NOTE_** sections. Otherwise please create an issue on github
@@ -156,11 +154,13 @@ For doing more advanced enhancements to this code, check out tutorial #2 of this
 
 Visit our website [Wildcards](https://wildcards.world) where you can buy some wildcards and start contributing toward at risk animal conservation today! Follow our socials to learn more about our project and the conservation causes we are working towards.
 
-Follow us on twitter: [@wildcards_world](https://twitter.com/wildcards_world)
+Follow us on Instagram: [@wildcards_world](https://www.instagram.com/wildcards_world)
 
-Follow us on Facebook: [@wildcardscrypto](https://www.facebook.com/wildcardscrypto)
+Follow us on Twitter: [@wildcards_world](https://twitter.com/wildcards_world)
 
-Follow us on Telegram: [Telegram](https://t.me/wildcardsworld)
+Follow us on Facebook: [@wildcards.conservation](https://www.facebook.com/wildcards.conservation)
+
+Join us on [Discord](https://discord.gg/Wemmn63)
 
 As always, stay cool, stay safe and stay tuned
 

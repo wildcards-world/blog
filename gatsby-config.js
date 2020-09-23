@@ -6,7 +6,7 @@ module.exports = {
     siteUrl: `https://blog.wildcards.world`,
     social: {
       twitter: `wildcards_world`,
-      instagram: `wildcardsworld`,
+      instagram: `wildcards_world`,
     },
     disqusShortname: "wildcardsworld",
   },

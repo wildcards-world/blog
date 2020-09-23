@@ -49,8 +49,13 @@ function Bio({ postAuthor }) {
                 Lover of bamboo shoots, foraging and shaddy branches
                 <br />
                 You can connect with me via{" "}
+                <a href={`https://www.instagram.com/${instagram}`}>Instagram</a>
+                {", "}
                 <a href={`https://twitter.com/${twitter}`}>Twitter</a> or{" "}
-                <a href={`https://facebook.com/wildcardscrypto`}>Facebook</a>.
+                <a href={`https://facebook.com/wildcards.conservation`}>
+                  Facebook
+                </a>
+                .
               </p>
             </div>
           </div>
