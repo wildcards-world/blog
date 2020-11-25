@@ -8,7 +8,7 @@ description: The Oceans Research Institute battles the impact of demersal longli
 
 The Oceans Research Institute battles the impact of demersal longline fishing to safeguard great whites prey base
 
-![A great white shark photographed during an Oceans Research Institute’s shark population study. Photo by Esther Jacobs, Oceans Research Institute.](https://cdn-images-1.medium.com/max/3200/0*-XP6vZnmUMzsL190)**A great white shark photographed during an Oceans Research Institute’s shark population study. Photo by Esther Jacobs, Oceans Research Institute.**
+![A great white shark photographed during an Oceans Research Institute’s shark population study. Photo by Esther Jacobs, Oceans Research Institute.](https://cdn-images-1.medium.com/max/3200/0*-XP6vZnmUMzsL190)_A great white shark photographed during an Oceans Research Institute’s shark population study. Photo by Esther Jacobs, Oceans Research Institute._
 
 **How demand for ‘_shark with fries’_ down under, is contributing to the disappearance of great white sharks in South Africa**
 
@@ -38,7 +38,7 @@ Gennari tells me the decline in white sharks in False Bay started in 2013 while 
 
 Great whites have not vanished from Mossel Bay, but why? The Oceans Research Institute has reported that killer whales come into the bay less frequently than they do in False Bay and Gansbaai, and that there is still an abundance of smaller sharks for great whites to prey on in Mossel Bay. Though Gennari tells me that “the demersal shark longliners [fishing vessels targeting sharks] are moving in [to Mossel Bay] more and more often.” The Oceans Research Institute, headed up by Gennari, meticulously gathers data on marine animals in Mossel Bay, including sharks both large and small.
 
-![After being tagged during an Oceans Research Institute tag and release project this leopard catshark, an endemic species of Southern African shark, swims off. Photo by Esther Jacobs, Oceans Research Institute.](https://cdn-images-1.medium.com/max/2568/0*bJCR66NSRgwr-r4M)**After being tagged during an Oceans Research Institute tag and release project this leopard catshark, an endemic species of Southern African shark, swims off. Photo by Esther Jacobs, Oceans Research Institute.**
+![After being tagged during an Oceans Research Institute tag and release project this leopard catshark, an endemic species of Southern African shark, swims off. Photo by Esther Jacobs, Oceans Research Institute.](https://cdn-images-1.medium.com/max/2568/0*bJCR66NSRgwr-r4M)_After being tagged during an Oceans Research Institute tag and release project this leopard catshark, an endemic species of Southern African shark, swims off. Photo by Esther Jacobs, Oceans Research Institute._
 
 This data provides invaluable evidence that where demersal sharks are still present great white sharks appear regularly. This data and the ecological understanding it provides will be essential in advising policy so the prey base of one of South Africa’s most iconic marine animals in its last remaining stronghold can be safeguarded.
 
