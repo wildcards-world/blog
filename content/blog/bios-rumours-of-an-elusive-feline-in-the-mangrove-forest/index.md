@@ -1,7 +1,7 @@
 ---
 title: Rumours of an elusive feline in the mangrove forest
 description: >-
-  “Every dive is an adventure, because you never know what amazing animal you might see below the surface that day,” Michelle Carpenter, a PhD student from Zavora Marine Lab tells me.
+  While collecting data in San Pedro de Vice Mangroves, Sechura desert, Alvaro García-Olaechea heard rumours about a “cat-like creature” lurking in the mangroves. What he found was very exciting.
 date: "2020-12-23T16:12:03.284Z"
 featuredImage: "https://cdn-images-1.medium.com/max/2600/0*vd5kzmXsJ9BPUmon"
 author: Rio Button
