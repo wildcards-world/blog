@@ -10,8 +10,6 @@ keywords: []
 slug: ""
 ---
 
-# Rumours of an elusive feline in the mangrove forest
-
 While collecting data in San Pedro de Vice Mangroves, in the Sechura desert, final year biology student, Alvaro García-Olaechea heard rumours about a “cat-like creature” lurking in the mangroves. The fisherman thought it was an ocelot. “Impossible,” Alvaro thought. He knew that ocelots only lived in dry areas and in rain forests, not in small mangrove forests within deserts.
 
 Long after hearing the fishermen’s tale Alvaro’s mind kept returning to ponder over what the feline creature they spoke of could have been. Alvaro convinced a researcher he had met at a conference on Peruvian mammals to lend him a motion activated camera trap to try to quench his curiosity. The camera trap Alvaro was lent was so ancient it required a spool of film rather than a memory card. He set up the camera trap in a mangrove tree along the border of a tidal channel. In two days the camera trap had snapped all of the 36 frames the spool would allow for. He tells me “To be honest, I just took it [the spool of film] home and forgot about it.”
