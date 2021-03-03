@@ -27,7 +27,7 @@ function SEO({ description, lang, meta, keywords, title, featuredImage }) {
 
   const metaDescription = description || site.siteMetadata.description
 
-  const imageSrc = featuredImage && featuredImage.childImageSharp.sizes.src
+  const imageSrc = featuredImage && featuredImage
 
   let origin = ""
   if (typeof window !== "undefined") {
