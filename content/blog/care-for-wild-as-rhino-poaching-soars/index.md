@@ -4,14 +4,13 @@ description: >-
   As rhino poaching soars, what happens to the orphaned rhino calves left behind?
 date: "2021-02-24T16:12:03.284Z"
 author: Rio Button
+featuredImage: "https://dd2wadt5nc0o7.cloudfront.net/conservations/banners/care-for-wild-banner.jpg"
 categories: []
 keywords: []
 slug: ""
 ---
 
-<!-- # featuredImage: "https://dd2wadt5nc0o7.cloudfront.net/conservations/banners/care-for-wild-banner.jpg" -->
-
-As rhino poaching soars, what happens to the orphaned rhino calves left behind?
+s rhino poaching soars, what happens to the orphaned rhino calves left behind?
 
 ![An orphaned baby black rhino at Care for Wild. Photo courtesy of Care for Wild.](https://cdn-images-1.medium.com/max/2000/0*yQvza6aEathN__ct)
 _An orphaned baby black rhino at Care for Wild. Photo courtesy of Care for Wild._
