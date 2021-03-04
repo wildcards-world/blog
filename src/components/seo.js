@@ -27,7 +27,7 @@ function SEO({ description, lang, meta, keywords, title, featuredImage }) {
 
   const metaDescription = description || site.siteMetadata.description
 
-  const imageSrc = featuredImage && featuredImage.childImageSharp.fixed.src
+  const imageSrc = featuredImage && featuredImage.childImageSharp.resize.src
 
   let origin = ""
   if (typeof window !== "undefined") {
@@ -64,17 +64,9 @@ function SEO({ description, lang, meta, keywords, title, featuredImage }) {
           property: `og:image`,
           content: image,
         },
-        /*
-      <meta name="twitter:card" content="summary" />
-      <meta name="twitter:site" content="@flickr" />
-      <meta name="twitter:title" content="Small Island Developing States Photo Submission" />
-      <meta name="twitter:description" content="View the album on Flickr." />
-      <meta name="twitter:image" content="https://farm6.staticflickr.com/5510/14338202952_93595258ff_z.jpg" />
-      */
         {
           name: `twitter:image`,
-          content:
-            "https://farm6.staticflickr.com/5510/14338202952_93595258ff_z.jpg",
+          content: image,
         },
         {
           name: `twitter:card`,
