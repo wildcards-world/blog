@@ -4,9 +4,6 @@ description: South Africa's most Endangered carnivore can't be kept in by fences
 date: "2021-02-23T10:12:03.284Z"
 author: Rio Button
 featuredImage: ./endangered-wildlife-trust-banner.jpg
-categories: []
-keywords: []
-slug: ""
 ---
 
 South Africa’s most Endangered carnivore can’t be kept in by fences. Wildcards chatted to the man responsible for the seemingly impossible task of looking after them while they rove outside of protected areas.

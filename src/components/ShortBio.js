@@ -1,7 +1,8 @@
 import PropTypes from "prop-types"
 import React from "react"
 import readingTime from "reading-time"
-import Image from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image"
+
 import { StaticQuery, graphql } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
@@ -28,8 +29,8 @@ function ShortBio({
             }}
           >
             {!hideAvatar && (
-              <Image
-                fixed={avatar.childImageSharp.fixed}
+              <GatsbyImage
+                image={avatar.childImageSharp.gatsbyImageData}
                 alt={author}
                 style={{
                   marginRight: rhythm(1 / 2),
