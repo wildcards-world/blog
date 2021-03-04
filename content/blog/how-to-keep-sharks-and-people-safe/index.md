@@ -2,7 +2,7 @@
 title: How to keep sharks and people safe?
 date: "2020-08-06T16:12:03.284Z"
 author: Rio Button
-featuredImage: "https://miro.medium.com/max/1400/0*00UkNOQ3EUpeZBSz"
+featuredImage: ./sharkSpotters.png
 description: Who's really under attack, people or sharks?
 ---
 

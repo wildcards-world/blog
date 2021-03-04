@@ -3,7 +3,7 @@ title: Saving the ethereal, magic carpets
 description: >-
   “Every dive is an adventure, because you never know what amazing animal you might see below the surface that day,” Michelle Carpenter, a PhD student from Zavora Marine Lab tells me.
 date: "2020-08-13T16:12:03.284Z"
-featuredImage: "https://miro.medium.com/max/1400/0*SN0mwhgYDt0cQe9F"
+featuredImage: ./ethereal-carpet.jpeg
 author: Rio Button
 categories: []
 keywords: []

@@ -3,9 +3,8 @@ title: Do you Care for Wild?
 description: As rhino poaching soars, what happens to the orphaned rhino calves left behind?
 date: "2021-02-24T16:12:03.284Z"
 author: Rio Button
+featuredImage: ./care-for-wild-banner.jpg
 ---
-
-<!-- featuredImage: ./care-for-wild-banner.jpg -->
 
 As rhino poaching soars, what happens to the orphaned rhino calves left behind?
 

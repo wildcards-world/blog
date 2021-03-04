@@ -1,11 +1,10 @@
 ---
 title: Where the wild things roam
 description: South Africa's most Endangered carnivore can't be kept in by fences. Wildcards chatted to the man responsible for the seemingly impossible task of looking after them while they rove outside of protected areas.
+# featuredImage: ./endangered-wildlife-trust-banner.jpg # EWT don't like this photo...
 date: "2021-02-23T10:12:03.284Z"
 author: Rio Button
 ---
-
-<!-- featuredImage: ./endangered-wildlife-trust-banner.jpg -->
 
 South Africa’s most Endangered carnivore can’t be kept in by fences. Wildcards chatted to the man responsible for the seemingly impossible task of looking after them while they rove outside of protected areas.
 

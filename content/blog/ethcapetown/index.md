@@ -2,7 +2,7 @@
 title: EthCapeTown (Wildcards is born) - The hackathon to start up experience
 date: "2019-10-14T10:12:03.284Z"
 author: Denham Preen
-featuredImage: "./ethcapetown.jpeg"
+featuredImage: ./ethcapetown.jpeg
 description: EthCapeTown gives birth to Wildcards - Always for sale crypto conservation tokens
 ---
 

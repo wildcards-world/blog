@@ -1,7 +1,7 @@
 ---
 title: Wildcards - an unprecedented means of funding conservation
 date: "2020-07-03T15:12:03.284Z"
-featuredImage: "./wildcards-blog-banner.jpg"
+featuredImage: ./wildcards-blog-banner.jpg
 author: Rio Button
 description: Wildcards is an unconventional strategy that is able to harness funding for conservation while simultaneously providing entertainment and dare we say, fun.
 ---
