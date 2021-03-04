@@ -2,7 +2,7 @@
 title: How to buy a wildcard?
 date: "2019-10-16T16:12:03.284Z"
 author: JonJon Clark
-featuredImage: "./web3.png"
+featuredImage: ./web3.png
 description: Why are there 6 different web3 providers I can use to buy a wildcard and what does that even mean?!
 ---
 

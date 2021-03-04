@@ -2,7 +2,7 @@
 title: South Africa’s last remaining white shark stronghold under threat
 date: "2020-11-25T16:12:03.284Z"
 author: Rio Button
-featuredImage: "https://cdn-images-1.medium.com/max/2600/0*eJUambAZYuizlW7g"
+featuredImage: ./featured.png
 description: The Oceans Research Institute battles the impact of demersal longline fishing to safeguard great whites prey base
 ---
 

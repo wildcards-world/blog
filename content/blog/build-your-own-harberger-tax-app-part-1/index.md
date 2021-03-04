@@ -1,7 +1,7 @@
 ---
 title: Build your first Harberger Tax App - Part 1
 date: "2020-05-27T14:12:03.284Z"
-featuredImage: "./red-balloon-sale.jpg"
+featuredImage: ./red-balloon-sale.jpg
 author: Jason Smythe
 description: A tutorial that shows you all the parts that come together to create https://wildcards.world. It acts as a good starting point if you want to create your own app that uses harberger tax.
 ---

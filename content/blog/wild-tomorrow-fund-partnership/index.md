@@ -1,7 +1,7 @@
 ---
 title: Announcing Wildcards Conservation Partner - Wild Tomorrow Fund
 date: "2020-06-24T15:12:03.284Z"
-featuredImage: "https://dd2wadt5nc0o7.cloudfront.net/conservations/banners/wild-tomorrow-fund-banner.jpg"
+featuredImage: ./wild-tomorrow-fund-banner.jpg
 author: Denham Preen
 description: We’re excited today to be telling you more about our very first partnership, launched in October last year, with the incredible Wild Tomorrow Fund!
 ---

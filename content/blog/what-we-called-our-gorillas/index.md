@@ -2,7 +2,7 @@
 title: Why our first gorillas are called Simon, Vitalik and Andy?
 date: "2019-10-16T14:12:03.284Z"
 author: JonJon Clark
-featuredImage: "./3lads.png"
+featuredImage: ./3lads.png
 description: Coming up with gorilla names is hard. You have so many cool names like Max, Cass, Chewbacca, Sassy, Harambe, Darth Vader, and it very quickly becomes difficult to choose!
 ---
 

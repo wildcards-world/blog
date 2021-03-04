@@ -3,7 +3,7 @@ title: Creating space for wildlife to return and resurrect its natural rhythms
 description: >-
   Before foreigners erected fences, animals were free to move to where rain had recently fallen in the Kalahari desert, one of the driest places on earth. Here, rainfall is rare, sporadic, and concentrated in small areas.
 date: "2020-08-27T16:12:03.284Z"
-featuredImage: "https://miro.medium.com/max/3842/0*3Rt9R6kTyaSix2E_.jpg"
+featuredImage: ./featureImg.jpg
 author: Rio Button
 categories: []
 keywords: []

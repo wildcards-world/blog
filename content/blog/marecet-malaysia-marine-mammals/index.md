@@ -2,7 +2,7 @@
 title: Malaysia has marine mammals?
 date: "2020-11-17T16:12:03.284Z"
 author: Rio Button
-featuredImage: "https://miro.medium.com/max/2333/0*E0kiMTdj2v9n2geT.jpg"
+featuredImage: ./featureImg.jpg
 description: 90% of Malaysians don’t know there are dolphins and whales in Malaysian waters
 ---
 

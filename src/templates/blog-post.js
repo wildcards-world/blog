@@ -140,7 +140,7 @@ export const pageQuery = graphql`
         author
         featuredImage {
           childImageSharp {
-            fixed(width: 600) {
+            resize(width: 600) {
               src
             }
           }

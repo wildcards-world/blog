@@ -1,7 +1,7 @@
 ---
 title: Announcing Wildcards Conservation Partner - La Senda Verde
 date: "2020-07-10T15:12:03.284Z"
-featuredImage: "https://dd2wadt5nc0o7.cloudfront.net/conservations/banners/la-senda-verde-banner.jpg"
+featuredImage: ./la-senda-verde-banner.jpg
 author: JonJon Clark
 description: We’re excited today to be talking about one of our first and favourite conservation partners, La Senda Verde!
 ---

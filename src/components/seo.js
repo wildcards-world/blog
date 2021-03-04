@@ -27,14 +27,14 @@ function SEO({ description, lang, meta, keywords, title, featuredImage }) {
 
   const metaDescription = description || site.siteMetadata.description
 
-  const imageSrc = featuredImage && featuredImage.childImageSharp.fixed.src
+  const imageSrc = featuredImage && featuredImage.childImageSharp.resize.src
 
   let origin = ""
   if (typeof window !== "undefined") {
     origin = window.location.origin
   }
 
-  const image = origin + imageSrc + "?no=cache"
+  const image = origin + imageSrc
 
   return (
     <Helmet
