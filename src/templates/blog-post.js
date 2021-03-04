@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Disqus from "disqus-react"
+// import Disqus from "disqus-react"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -138,7 +138,13 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         description
         author
-        featuredImage
+        featuredImage {
+          childImageSharp {
+            fluid(maxWidth: 600) {
+              src
+            }
+          }
+        }
       }
     }
   }

@@ -98,3 +98,7 @@ export const pageQuery = graphql`
     }
   }
 `
+
+
+/*
+gatsby gatsby-image gatsby-plugin-feed gatsby-plugin-google-analytics gatsby-plugin-manifest gatsby-plugin-offline gatsby-plugin-react-helmet gatsby-plugin-sharp gatsby-plugin-typography gatsby-remark-copy-linked-files gatsby-remark-embed-youtube gatsby-remark-images gatsby-remark-prismjs gatsby-remark-responsive-iframe gatsby-remark-smartypants gatsby-source-filesystem gatsby-transformer-remark gatsby-transformer-sharp prismjs react react-dom react-headroom react-helmet react-typography reading-time sharp typeface-merriweather typeface-montserrat typography typography-theme-github */
