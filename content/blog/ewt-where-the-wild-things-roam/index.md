@@ -21,12 +21,12 @@ South Africa’s most Endangered carnivore can’t be kept in by fences. Wildcar
 While drinks splosh late at night in drinking holes, some farmers let “shoot, shovel, and shut up,” stories slip. They tell stories of shooting Wild Dogs, burying the evidence and swearing to never speak of it again. Secrecy is paramount, because the consequence of killing a wild dog can be 15 years in jail.
 
 ![Killing endangered wild dogs is illegal. Farmers that shoot them usually bury the evidence for fear of discovery. Photo by Paolo Chiabrando.](https://cdn-images-1.medium.com/max/2162/0*srYAv0s3wVH-QGtl)
-<small>_Killing endangered wild dogs is illegal. Farmers that shoot them usually bury the evidence for fear of discovery. Photo by Paolo Chiabrando._<small>
+<small>_Killing endangered wild dogs is illegal. Farmers that shoot them usually bury the evidence for fear of discovery. Photo by Paolo Chiabrando._</small>
 
 Occasionally farmers shoot collared Wild Dogs and, for fear of being discovered, phone Derek with “sob stories’’ of not knowing what the animal was or thinking it was a domestic dog. Derek’s bubbly tone loses its lustre, as he tells me “it’s very, very challenging when I come across one of the wild dogs I’ve been following for a couple of years, shot.”
 
 ![Photo by Derek Van Der Merwe.](https://cdn-images-1.medium.com/max/3200/0*gKflEhe1QNiSdOCQ)
-<small>_Photo by Derek Van Der Merwe._<small>
+<small>_Photo by Derek Van Der Merwe._</small>
 
 **Indiscriminately killing predators**
 
