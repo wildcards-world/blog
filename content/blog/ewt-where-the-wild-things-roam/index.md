@@ -9,10 +9,10 @@ author: Rio Button
 South Africa’s most Endangered carnivore can’t be kept in by fences. Wildcards chatted to the man responsible for the seemingly impossible task of looking after them while they rove outside of protected areas.
 
 ![Derek Van Der Merwe, the Endangered Wildlife Trust’s Carnivore Conservation Programme Limpopo Regional Coordinator locating radio-collared wild dogs. Photo by David Swanepoel.](https://cdn-images-1.medium.com/max/2572/0*slZSW1Kb5ZWbj2rv)
-_Derek Van Der Merwe, the Endangered Wildlife Trust’s Carnivore Conservation Programme Limpopo Regional Coordinator locating radio-collared wild dogs. Photo by David Swanepoel._
+<small>_Derek Van Der Merwe, the Endangered Wildlife Trust’s Carnivore Conservation Programme Limpopo Regional Coordinator locating radio-collared wild dogs. Photo by David Swanepoel._</small>
 
 ![They go by many names ‘painted dogs,’ painted wolves,’ ‘hyena dogs,’ ‘African hunting dogs,’ ‘ornate wolves,’ ‘African wild dogs,’ or more commonly just ‘wild dogs.’ These are the largest canines native to Africa and are more closely related to wolves than domesticated dogs. There has been a big push to rebrand them as ‘painted wolves,’ to increase their status and distinguish them from wild feral dogs. Photo by Derek Van Der Merwe.](https://cdn-images-1.medium.com/max/3200/0*rmOQRXfcuwfnSGKX)
-_They go by many names ‘painted dogs,’ painted wolves,’ ‘hyena dogs,’ ‘African hunting dogs,’ ‘ornate wolves,’ ‘African wild dogs,’ or more commonly just ‘wild dogs.’ These are the largest canines native to Africa and are more closely related to wolves than domesticated dogs. There has been a big push to rebrand them as ‘painted wolves,’ to increase their status and distinguish them from wild feral dogs. Photo by Derek Van Der Merwe._
+<small>_They go by many names ‘painted dogs,’ painted wolves,’ ‘hyena dogs,’ ‘African hunting dogs,’ ‘ornate wolves,’ ‘African wild dogs,’ or more commonly just ‘wild dogs.’ These are the largest canines native to Africa and are more closely related to wolves than domesticated dogs. There has been a big push to rebrand them as ‘painted wolves,’ to increase their status and distinguish them from wild feral dogs. Photo by Derek Van Der Merwe._</small>
 
 “We really struggle with farmers shooting them, it happens more often than you might think,” Endangered Wildlife Trust’s man in charge of free-roaming wild dogs, Derek Van Der Merwe, tells me. “They [the wild dogs] don’t do themselves any favours,” he explains. A big pack can make three to four successful kills a day, leaving a wake of carcasses in their path. When those carcasses are livestock, there is little tolerance from rural, subsistence or commercial farmers. Derek tells me how in the Waterberg the Wild Dog population plummeted to just five individuals in 2017. This decline in numbers coincided with the commercial value of game animals, especially rare colour variants, such as Golden Wildebeest, Black Impala, and Golden Oryx, going up astronomically. These breeders of the rare colour variant game stopped at nothing to kill predators on the landscape in order to protect their investment. Thanks to the hard work of Derek and the Endangered Wildlife Trust the Wild Dog population in the Waterberg is in recovery and now has a population of around 39 Wild Dogs.
 
@@ -21,12 +21,12 @@ _They go by many names ‘painted dogs,’ painted wolves,’ ‘hyena dogs,’ 
 While drinks splosh late at night in drinking holes, some farmers let “shoot, shovel, and shut up,” stories slip. They tell stories of shooting Wild Dogs, burying the evidence and swearing to never speak of it again. Secrecy is paramount, because the consequence of killing a wild dog can be 15 years in jail.
 
 ![Killing endangered wild dogs is illegal. Farmers that shoot them usually bury the evidence for fear of discovery. Photo by Paolo Chiabrando.](https://cdn-images-1.medium.com/max/2162/0*srYAv0s3wVH-QGtl)
-_Killing endangered wild dogs is illegal. Farmers that shoot them usually bury the evidence for fear of discovery. Photo by Paolo Chiabrando._
+<small>_Killing endangered wild dogs is illegal. Farmers that shoot them usually bury the evidence for fear of discovery. Photo by Paolo Chiabrando._</small>
 
 Occasionally farmers shoot collared Wild Dogs and, for fear of being discovered, phone Derek with “sob stories’’ of not knowing what the animal was or thinking it was a domestic dog. Derek’s bubbly tone loses its lustre, as he tells me “it’s very, very challenging when I come across one of the wild dogs I’ve been following for a couple of years, shot.”
 
 ![Photo by Derek Van Der Merwe.](https://cdn-images-1.medium.com/max/3200/0*gKflEhe1QNiSdOCQ)
-_Photo by Derek Van Der Merwe._
+<small>_Photo by Derek Van Der Merwe._</small>
 
 **Indiscriminately killing predators**
 
@@ -41,15 +41,15 @@ Mitigating conflict with predators is Derek’s responsibility in his role as pa
 Initially, in the Carnivore Conservation Program, Derek worked with commercial farmers introducing livestock guardian dogs. These working dogs have been specially bred and raised according to proven protocols, to ensure they grow up to protect herds of livestock from predator attacks. The dogs traverse the farm with the grazing livestock. They protect the livestock by warning off predators, herding livestock away from threats, and their sheer size acts as a deterrent for many predators on the landscape. Livestock guardian dogs are a win-win for farmers and predators, they prevent the killing of livestock and persecution of predators.
 
 ![Exposing young puppies, selected to be livestock guardian dogs, to herds of livestock is essential for developing them into effective proctors of livestock. Photo by the Endangered Wildlife Trust.](https://cdn-images-1.medium.com/max/3000/0*-9fL6OPeV34m4wvZ)
-_Exposing young puppies, selected to be livestock guardian dogs, to herds of livestock is essential for developing them into effective proctors of livestock. Photo by the Endangered Wildlife Trust._
+<small>_Exposing young puppies, selected to be livestock guardian dogs, to herds of livestock is essential for developing them into effective proctors of livestock. Photo by the Endangered Wildlife Trust._</small>
 
 ![A farmer welcomes his new livestock guardian dog. Photo by the Endangered Wildlife Trust.](https://cdn-images-1.medium.com/max/2000/0*r74q6HU4y3b4uAwU)
-_A farmer welcomes his new livestock guardian dog. Photo by the Endangered Wildlife Trust._
+<small>_A farmer welcomes his new livestock guardian dog. Photo by the Endangered Wildlife Trust._</small>
 
 After the success of the Livestock Guarding Dog Project with commercial farms and the discovery of the high predator persecution rates in rural farming communities, there was a push to expand the Livestock Guardian Dog Project into rural farming communities. Derek’s ability to speak Sotho facilitated the success of the project’s expansion into rural communities. “In the last couple of years, we have been working with rural communities. These are poor people who are absolutely desperate for solutions. These people only have a couple of livestock and if a predator comes in and takes a third of their livestock, it really affects them financially,” Derek explains. He goes onto say “it’s been a privilege to work with these communities and show them mitigation methods, that they have never used or tried before, which are more effective and a better solution than putting down poison or setting snares, and you know you are actually contributing to their livelihoods at the end of the day. Their livestock provides money for them and if they aren’t losing any animals their circumstances improve. It’s been incredibly rewarding working with these communities and being able to help provide them with solutions to protect their main source of income, which is their livestock.”
 
 ![Community members welcome their new livestock guarding dog. Photo by the Endangered Wildlife Trust.](https://cdn-images-1.medium.com/max/2048/0*YFuPRxgwJlDhbi6b)
-_Community members welcome their new livestock guarding dog. Photo by the Endangered Wildlife Trust._
+<small>_Community members welcome their new livestock guarding dog. Photo by the Endangered Wildlife Trust._</small>
 
 The Livestock Guarding Dog Project’s success at reducing livestock fatalities has increased farmers tolerance towards predators. This tolerance benefits wild dogs as well as Leopards, brown hyaenas, spotted hyaenas, black-backed jackals, servals and caracals. For these animals threats of persecution are diminished and the size of the landscape they can safely inhabit is enlarged. This is not all the Endangered Wildlife Trust does.
 
@@ -66,7 +66,7 @@ A newly launched wildcard raises funds for the Endangered Wildlife Trust and mor
 Wildcards is ecstatic about connecting funders with conservation agencies having a real-world impact on the protection of wild animals at risk.
 
 ![Fitting SAT and VHF tracking collars to a few members of wild dog packs allows the Endangered Wildlife Trust to monitor their movements. This is essential to keep track of their habitat utilization patterns, population demographics, and to avoid snaring and poaching incidents and breakouts. Photo of a SAT and VHF tracking collared wild dog by Derek Van Der Merwe.](https://cdn-images-1.medium.com/max/3200/0*Yqi-OSS_-In5MLiG)
-_Fitting SAT and VHF tracking collars to a few members of wild dog packs allows the Endangered Wildlife Trust to monitor their movements. This is essential to keep track of their habitat utilization patterns, population demographics, and to avoid snaring and poaching incidents and breakouts. Photo of a SAT and VHF tracking collared wild dog by Derek Van Der Merwe._
+<small>_Fitting SAT and VHF tracking collars to a few members of wild dog packs allows the Endangered Wildlife Trust to monitor their movements. This is essential to keep track of their habitat utilization patterns, population demographics, and to avoid snaring and poaching incidents and breakouts. Photo of a SAT and VHF tracking collared wild dog by Derek Van Der Merwe._</small>
 
 Also read:
 
