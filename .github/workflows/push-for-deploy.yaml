@@ -22,5 +22,5 @@ jobs:
         with:
           source-directory: "."
           destination-github-username: "jasoons"
-          destination-repository-name: "blog-ui"
+          destination-repository-name: "wildcards-blog"
           user-email: avolabsmachine@gmail.com
