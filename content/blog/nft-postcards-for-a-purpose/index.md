@@ -16,6 +16,8 @@ Participation costs 0.1 ETH — with 60% of that going directly to wildlife cons
 
 You can purchase these NFTs [on Rarible](https://rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:381426:0xa898ac24f567715b1e023dcb7a98961f7d6fa918).
 
+![](./cover-image.jpeg)
+
 ## What is a ‘Wildcard’?
 
 A wildcard is an NFT that raises funds for our partner organisations, continuously. Each wildcard has a captivating, fact-filled story about an individual animal, that our conservation partner is researching, and aims to protect and help better manage. You’ll be able to buy one of these Wildcards online, which will make you the guardian of that Wildcard animal. When you buy a Wildcard, you must set the price you are willing to sell it for. Every month, as the guardian of a Wildcard, you will give a specified portion (typically 20% per month) of the selling price you set, to that animal’s representative conservation agency. At any point, someone can buy the Wildcard from you, at the selling price you specified. When someone buys the Wildcard from you, they must set a selling price. The new guardian of the Wildcard is then responsible for giving the new monthly subscription. And so the cycle continues, to generate funds.
