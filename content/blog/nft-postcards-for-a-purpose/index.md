@@ -1,6 +1,6 @@
 ---
 title: NFT Postcards for a purpose
-description: South Africa's most Endangered carnivore can't be kept in by fences. Wildcards chatted to the man responsible for the seemingly impossible task of looking after them while they rove outside of protected areas.
+description: Wildcards has partnerred with the TokenSmart community to support wildlife.
 featuredImage: ./cover-image.jpeg
 date: "2021-04-01T10:12:03.284Z"
 author: Jason Smythe
@@ -8,11 +8,11 @@ author: Jason Smythe
 
 # NFT Postcards for a purpose
 
-We are excited to announce that the TokenSmart community has partnered with us to create a set of limited edition NFT that support wildlife conservation.
+A limited edition set of NFTs has been created in partnership with the TokenSmart community to support wildlife, and it is an exciting opportunity for you to get involved.
 
-There are exactly 111 NFTs, and each of them is redeemable for a specially designed postcard that will be delivered to you. 3 lucky winners will receive a split of 1.5 ETH and a surprise wildcard.
+There are exactly 111 NFTs, and each of them is redeemable for a specially designed postcard that will be delivered to you. Three lucky winners will receive a split of 1.5 ETH and a surprise wildcard.
 
-Participation costs 0.1 ETH — with 60% of that going directly to wildlife conservation (the rest is for covering costs for the TokenSmart team and prizes). 100% of these funds will go into the wildcards DAO and be distributed to our most deserving partners.
+Participation costs 0.1 ETH — with 60% of that going directly to wildlife conservation (the rest is for covering costs for the TokenSmart team and prizes). All of these funds due for wildcards will go into the wildcards DAO and be distributed to our most deserving partners.
 
 You can purchase these NFTs [on Rarible](https://rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:381426:0xa898ac24f567715b1e023dcb7a98961f7d6fa918).
 
@@ -25,6 +25,8 @@ A wildcard is an NFT that raises funds for our partner organisations, continuous
 Also read: [Wildcards: an unprecedented means of funding conservation](https://blog.wildcards.world/wildcards-intro/)
 
 Follow Wildcards on Twitter:[ @wildcards_world](https://twitter.com/wildcards_world)
+
+Follow us on Instagram: [@wildcards_world](https://www.instagram.com/wildcards_world)
 
 Follow Wildcards on Facebook: [@wildcards.conservation](https://www.facebook.com/wildcards.conservation)
 
