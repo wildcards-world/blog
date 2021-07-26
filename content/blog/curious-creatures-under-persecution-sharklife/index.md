@@ -58,14 +58,4 @@ Wildcards will launch cards to raise funds for SharkLife. Wildcards uses blockch
 
 Wildcards is ecstatic about connecting funders with conservation agencies having a real-world impact on the protection of wild animals and helping to rewild the world.
 
-Follow Wildcards on Instagram: [@wildcards_world](https://www.instagram.com/wildcards_world/)
-
-Follow Wildcards on Twitter:[ @wildcards_world](https://twitter.com/wildcards_world)
-
-Follow Wildcards on Facebook:[ @wildcards.conservation](https://www.facebook.com/wildcards.conservation)
-
-Join us on: [Discord](https://discord.gg/2BKqdhPzEv)
-
-Rio Button
-
 ![](https://cdn-images-1.medium.com/max/3200/0*raiLN2NMzRkmeUE2)
