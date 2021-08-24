@@ -1,5 +1,5 @@
 ---
-title: Tech innovation: Solving wildlife conservation's greatest challeng
+title: "Tech innovation: Solving wildlife conservation's greatest challenge"
 description: >-
   Tech start-up Wildcards has raised over 130,000 USD for conservation organisations around the world since its inception a year and a half ago.
 date: "2021-08-24T16:12:03.284Z"
