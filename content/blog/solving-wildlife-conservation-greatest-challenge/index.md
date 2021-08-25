@@ -10,7 +10,7 @@ keywords: []
 slug: ""
 ---
 
-## **Tech innovation: Solving wildlife conservation's greatest challenge**
+![](https://cdn-images-1.medium.com/max/2410/0*u2t4_3EtEmTxDaIg)
 
 *Tech start-up Wildcards has raised over 130,000 USD for conservation organisations around the world since its inception a year and a half ago.*
 
