@@ -24,8 +24,6 @@ To help expand his uncle Trevor’s shark diving tourism business, African Odyss
 
 “I’m never going back in the water,” Grant, aged 10, had vowed after just watching _Jaws_ at a beachfront cinema in Durban. _Jaws_ a film about a monstrous great white shark hungry for human flesh became a hit globally after it was released in 1975. Later in life, the author of Jaws, Peter Benchley, realised the global fear of sharks he’d instilled and the killing spree of sharks that he had unintentionally incited. He went on to commit his life to shark conservation until he died of lung disease at age 65 in 2006. But his shark activism efforts never did neutralise the demonisation of sharks _Jaws_ had ingrained into the minds of so many. “I was literally scared to death of sharks after watching that movie,” Grant said but like Peter, Grant too turned his life around to advocate for shark conservation.
 
-![](https://cdn-images-1.medium.com/max/2000/0*XHSbx0EmWRFKVteB.jpg)
-
 **The journey to defending sharks**
 
 Grant dived with sharks daily while working for his uncle’s dive operation. He would get back from dives and see fishermen on the beach hacking the jaws out of individual sharks he knew intimately from diving with them so often. Grant and Trevor were appalled and distressed at the fate of these curious creatures they knew so well. “A good shark was a dead shark, was what most people thought at the time,” Grant explains.
