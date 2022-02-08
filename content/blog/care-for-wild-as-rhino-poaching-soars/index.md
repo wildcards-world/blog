@@ -66,6 +66,10 @@ Follow Wildcards on Twitter: [@wildcards_world](https://twitter.com/wildcards_wo
 
 Follow Wildcards on Facebook: [@wildcards.conservation](https://www.facebook.com/wildcards.conservation)
 
+Instagram: [@wildcards_world](https://www.instagram.com/wildcards_world/)
+
+Join us on [Discord](https://discord.com/invite/2BKqdhPzEv)
+
 Join us on [Discord](https://discord.com/invite/2BKqdhPzEv)
 
 Rio Button
