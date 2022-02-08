@@ -1,14 +1,14 @@
 ---
-title: Curious creatures under persecution - Sharklife
+title: Curious creatures under persecution
 date: "2021-07-26T10:12:03.284Z"
 author: Rio Button
 featuredImage: https://cdn-images-1.medium.com/max/3200/0*E8RBQHRxivhixXza
 description: From having a deep fear of sharks to defending them.
 ---
 
-# Curious creatures under persecution
+# _From having a deep fear of sharks to defending them._
 
-From having a deep fear of sharks to defending them.
+
 
 ![](https://cdn-images-1.medium.com/max/3200/0*E8RBQHRxivhixXza)
 
