@@ -3,7 +3,7 @@ title: What wild animal leaves teddy bear footprints behind?
 description: >-
   Here are some clues: Using their sticky tongues, which are longer than their bodies, these animals slurp up their favourite snack — ants — but they will sometimes eat termites too.
 
-date: "2022-02-07 T16:12:03.284Z"
+date: "2022-02-07T16:12:03.284Z"
 featuredImage: https://cdn-images-1.medium.com/max/2000/0*qitAQCwHML5lXvUJ
 author: Rio Button
 categories: []
