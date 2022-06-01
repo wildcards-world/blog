@@ -30,7 +30,7 @@
     "react-helmet": "^6.1.0",
     "react-typography": "^0.16.19",
     "reading-time": "^1.3.0",
-    "sharp": "^0.27.2",
+    "sharp": "^0.30.5",
     "typeface-merriweather": "^1.1.13",
     "typeface-montserrat": "^1.1.13",
     "typography": "^0.16.19",
