@@ -20,6 +20,8 @@ npm run deploy
 
 ## Tool to convert medium article to mark down
 
+`mediumexporter` seems to be broken on lots of pages, rather use this repo: `git clone git@github.com:dtesler/medium-to-markdown.git` (and follow instructions in readme).
+
 https://medium.com/@macropus/export-your-medium-posts-to-markdown-b5ccc8cb0050
 
 install:

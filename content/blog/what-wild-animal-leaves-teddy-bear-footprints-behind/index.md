@@ -15,17 +15,15 @@ slug: ""
 
 <sup>_Photo by Helena Atkinson._</sup>
 
+_Here are some clues…_
 
+- Using their sticky tongues, which are longer than their bodies, these animals slurp up their favourite snack — ants — but they will sometimes eat termites too.
 
-*Here are some clues…*
+- They plod along the ground on their two back legs at night and sleep huddled in underground burrows during the day.
 
-* Using their sticky tongues, which are longer than their bodies, these animals slurp up their favourite snack — ants — but they will sometimes eat termites too.
+- These gentle scaly creatures roll up into a nearly impenetrable roly-poly ball when frightened.
 
-* They plod along the ground on their two back legs at night and sleep huddled in underground burrows during the day.
-
-* These gentle scaly creatures roll up into a nearly impenetrable roly-poly ball when frightened.
-
-* Even though their habitat extends from Southern to East Africa, they are very elusive and you’d be extremely lucky to ever see one.
+- Even though their habitat extends from Southern to East Africa, they are very elusive and you’d be extremely lucky to ever see one.
 
 ![A scared Temminck’s pangolin in a roly-poly ball. Photo by Helena Atkinson.](https://cdn-images-1.medium.com/max/2000/0*ASr7X-tW39Ef8NLG)
 
@@ -109,4 +107,4 @@ Follow Wildcards on Facebook: [@wildcards.conservation](https://www.facebook.com
 
 Join Wildcards on: [Discord](https://discord.gg/2BKqdhPzEv)
 
-*Written by Wildcards resident conservation biologist Rio Button.*
+_Written by Wildcards resident conservation biologist Rio Button._
