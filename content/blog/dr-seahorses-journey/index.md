@@ -1,7 +1,7 @@
 ---
 title: Dr Seahorse’s journey
 date: "2022-06-29T15:12:03.284Z"
-featuredImage: https://miro.medium.com/max/770/0*RQpa_Vjxvb7oVR5c
+featuredImage: "./seahorse.png"
 author: Rio Button
 description: From unravelling seahorses' secret sounds to safeguarding the habitat of these little super dads.
 ---
@@ -12,7 +12,7 @@ Stealthy daddy seahorses generally give birth under the cover of nightfall to re
 
 It starts with a wanna-be daddy seahorse. He will parade around showing his empty pouch to prospective females. An eager female who thinks he will make good father material will swim up to him and they will waltz around together in the water column until she transfers her eggs into his pouch. As the eggs are being transferred into his pouch he will fertilize them, Dr Adam Lim -who is now more widely known as Dr Seahorse -explains. The eggs will embed into the pouch of the daddy seahorse's tissue lining. Here each egg will develop into a teeny-tiny seahorse with eyes that move independently like a chameleon, a straw-like mouth, a pouch like a kangaroo, and a prehensile tail like a monkey.
 
-![](https://miro.medium.com/max/770/0*RQpa_Vjxvb7oVR5c)
+![](seahorse.png)
 
 **Captivating creatures inspire**
 

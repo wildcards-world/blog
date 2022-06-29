@@ -3,7 +3,7 @@ title: Rumours of an elusive feline in the mangrove forest
 description: >-
   While collecting data in San Pedro de Vice Mangroves, Sechura desert, Alvaro García-Olaechea heard rumours about a “cat-like creature” lurking in the mangroves. What he found was very exciting.
 date: "2020-12-23T16:12:03.284Z"
-featuredImage: ./featureImage.png
+featuredImage: "./featureImage.png"
 author: Rio Button
 categories: []
 keywords: []
