@@ -2,15 +2,13 @@
 title: Curious creatures under persecution
 date: "2021-07-26T10:12:03.284Z"
 author: Rio Button
-featuredImage: https://cdn-images-1.medium.com/max/3200/0*E8RBQHRxivhixXza
+featuredImage: "./sharklife.png"
 description: From having a deep fear of sharks to defending them.
 ---
 
 # _From having a deep fear of sharks to defending them._
 
-
-
-![](https://cdn-images-1.medium.com/max/3200/0*E8RBQHRxivhixXza)
+![](./sharklife.png)
 
 Reluctant, Grant Smith tumbled backwards off the boat into the pea green sea, splosh! It was a particularly gloomy overcast day at Protea Banks dive site. The site, 8 km off South Africa’s east coast, is legendary for its array of top predators. The captain, his boss and uncle Trevor Krull, instructed Grant to swim down to see if the water at the bottom was clearer. Down he swam, through the murky green water, all alone, and barely able to make out his own fins. Then just an arms-length below him a massive hunk of grey swam by. He vividly recalls staring into the bull shark’s eye as she swam beneath him. Once she’d passed, in a flurry he motored down to what he hoped would be the safety of clearer water on the seafloor. But, it was murky pea green down there too. He peered up to see the silhouettes of bulky bulls sharks rapidly spiralling down towards him.
 

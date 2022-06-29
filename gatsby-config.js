@@ -64,19 +64,20 @@ module.exports = {
         trackingId: `UA-139348292-3`,
       },
     },
-    `gatsby-plugin-feed`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Wildcards Blog`,
-        short_name: `Wildcards`,
-        start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
-        display: `minimal-ui`,
-        icon: `content/assets/favicon-32x32.png`,
-      },
-    },
+    // NOTE: unused plugin
+    // `gatsby-plugin-feed`,
+    // {
+    //   resolve: `gatsby-plugin-manifest`,
+    //   options: {
+    //     name: `Wildcards Blog`,
+    //     short_name: `Wildcards`,
+    //     start_url: `/`,
+    //     background_color: `#ffffff`,
+    //     theme_color: `#663399`,
+    //     display: `minimal-ui`,
+    //     icon: `content/assets/favicon-32x32.png`,
+    //   },
+    // },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     {

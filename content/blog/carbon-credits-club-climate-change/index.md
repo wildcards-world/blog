@@ -2,7 +2,7 @@
 title: Combating climate change in 30hrs with blockchain
 date: "2019-10-25T16:12:03.284Z"
 author: JonJon Clark
-featuredImage: ./carbon.png
+featuredImage: "./carbon.png"
 description: We built a transparent carbon credit marketplace where always for sale NFTs (spekboom plantations) mint ERC20 tokens (carbon credits)!
 ---
 
